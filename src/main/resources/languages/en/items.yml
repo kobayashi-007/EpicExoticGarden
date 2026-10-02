@@ -1,0 +1,1945 @@
+# English item translations for ExoticGarden. Block lore: Type / Description / Stats / Usage.
+
+ICE_CUBE:
+  name: "&bIce Cube"
+  type:
+    - "&7&oComponent"
+
+CROOK:
+  name: "&rCrook"
+  type:
+    - "&7&oTool"
+  description:
+    - "&7A wooden hoe used to harvest garden plants."
+  stats:
+    - "&7+ &b25% &7Sapling Drop Rate"
+
+GRASS_SEEDS:
+  name: "&rGrass Seeds"
+  type:
+    - "&7&oGadget"
+  description:
+    - "&7A renewable source of tall grass - cut it for saplings and bush seeds."
+  usage:
+    - "&7&oCan be planted on Dirt"
+
+KITCHEN:
+  name: "&eKitchen"
+  type:
+    - "&7&oMultiblock"
+  description:
+    - "&a&oYou can make a bunch of different yummies here!"
+  usage:
+    - "&a&oThe result goes in the Furnace output slot"
+
+MAYO:
+  name: "&rMayo"
+  type:
+    - "&7&oComponent"
+
+MUSTARD:
+  name: "&eMustard"
+  type:
+    - "&7&oComponent"
+
+BBQ_SAUCE:
+  name: "&cBBQ Sauce"
+  type:
+    - "&7&oComponent"
+
+VEGETABLE_OIL:
+  name: "&rVegetable Oil"
+  type:
+    - "&7&oComponent"
+
+CORNMEAL:
+  name: "&rCornmeal"
+  type:
+    - "&7&oComponent"
+
+YEAST:
+  name: "&rYeast"
+  type:
+    - "&7&oComponent"
+
+MOLASSES:
+  name: "&8Molasses"
+  type:
+    - "&7&oComponent"
+
+BROWN_SUGAR:
+  name: "&rBrown Sugar"
+  type:
+    - "&7&oComponent"
+
+COUNTRY_GRAVY:
+  name: "&rCountry Gravy"
+  type:
+    - "&7&oComponent"
+
+GRAPE:
+  name: "&cGrape"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+GRAPE_BUSH:
+  name: "&cGrape Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+GRAPE_JUICE:
+  name: "&cGrape Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+GRAPE_SMOOTHIE:
+  name: "&cGrape Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&cGrape Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+GRAPE_PIE:
+  name: "&cGrape Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+BLUEBERRY:
+  name: "&9Blueberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+BLUEBERRY_BUSH:
+  name: "&9Blueberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+BLUEBERRY_JUICE:
+  name: "&9Blueberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9Blueberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9Blueberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+BLUEBERRY_PIE:
+  name: "&9Blueberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+ELDERBERRY:
+  name: "&cElderberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+ELDERBERRY_BUSH:
+  name: "&cElderberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+ELDERBERRY_JUICE:
+  name: "&cElderberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&cElderberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&cElderberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+ELDERBERRY_PIE:
+  name: "&cElderberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+RASPBERRY:
+  name: "&dRaspberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+RASPBERRY_BUSH:
+  name: "&dRaspberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+RASPBERRY_JUICE:
+  name: "&dRaspberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+RASPBERRY_SMOOTHIE:
+  name: "&dRaspberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&dRaspberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+RASPBERRY_PIE:
+  name: "&dRaspberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+BLACKBERRY:
+  name: "&8Blackberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+BLACKBERRY_BUSH:
+  name: "&8Blackberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+BLACKBERRY_JUICE:
+  name: "&8Blackberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8Blackberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8Blackberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+BLACKBERRY_PIE:
+  name: "&8Blackberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+CRANBERRY:
+  name: "&cCranberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CRANBERRY_BUSH:
+  name: "&cCranberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+CRANBERRY_JUICE:
+  name: "&cCranberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+CRANBERRY_SMOOTHIE:
+  name: "&cCranberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&cCranberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+CRANBERRY_PIE:
+  name: "&cCranberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+COWBERRY:
+  name: "&cCowberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+COWBERRY_BUSH:
+  name: "&cCowberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+COWBERRY_JUICE:
+  name: "&cCowberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+COWBERRY_SMOOTHIE:
+  name: "&cCowberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&cCowberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+COWBERRY_PIE:
+  name: "&cCowberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+STRAWBERRY:
+  name: "&4Strawberry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+STRAWBERRY_BUSH:
+  name: "&4Strawberry Bush"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+STRAWBERRY_JUICE:
+  name: "&4Strawberry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4Strawberry Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4Strawberry Jelly Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+STRAWBERRY_PIE:
+  name: "&4Strawberry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+TOMATO:
+  name: "&4Tomato"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+TOMATO_BUSH:
+  name: "&4Tomato Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+LETTUCE:
+  name: "&2Lettuce"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+LETTUCE_BUSH:
+  name: "&2Lettuce Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+TEA_LEAF:
+  name: "&aTea Leaf"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+TEA_LEAF_BUSH:
+  name: "&aTea Leaf Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+CABBAGE:
+  name: "&2Cabbage"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CABBAGE_BUSH:
+  name: "&2Cabbage Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+SWEET_POTATO:
+  name: "&6Sweet Potato"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+SWEET_POTATO_BUSH:
+  name: "&6Sweet Potato Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+MUSTARD_SEED:
+  name: "&eMustard Seed"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+MUSTARD_SEED_BUSH:
+  name: "&eMustard Seed Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+CURRY_LEAF:
+  name: "&2Curry Leaf"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CURRY_LEAF_BUSH:
+  name: "&2Curry Leaf Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+ONION:
+  name: "&cOnion"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+ONION_BUSH:
+  name: "&cOnion Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+GARLIC:
+  name: "&rGarlic"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+GARLIC_BUSH:
+  name: "&rGarlic Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+CILANTRO:
+  name: "&aCilantro"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CILANTRO_BUSH:
+  name: "&aCilantro Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+BLACK_PEPPER:
+  name: "&8Black Pepper"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+BLACK_PEPPER_BUSH:
+  name: "&8Black Pepper Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+CORN:
+  name: "&6Corn"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CORN_BUSH:
+  name: "&6Corn Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+PINEAPPLE:
+  name: "&6Pineapple"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+PINEAPPLE_BUSH:
+  name: "&6Pineapple Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+RED_BELL_PEPPER:
+  name: "&cRed Bell Pepper"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+RED_BELL_PEPPER_BUSH:
+  name: "&cRed Bell Pepper Plant"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt and it slowly ripens."
+    - "&7Right-click when ripe to harvest without destroying it."
+
+OAK_APPLE:
+  name: "&cOak Apple"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+OAK_APPLE_SAPLING:
+  name: "&cOak Apple Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+OAK_APPLE_JUICE:
+  name: "&cOak Apple Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+OAK_APPLE_PIE:
+  name: "&cOak Apple Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+COCONUT:
+  name: "&6Coconut"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+COCONUT_SAPLING:
+  name: "&6Coconut Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+COCONUT_MILK:
+  name: "&6Coconut Milk"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+CHERRY:
+  name: "&cCherry"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+CHERRY_SAPLING:
+  name: "&cCherry Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+CHERRY_JUICE:
+  name: "&cCherry Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+CHERRY_PIE:
+  name: "&cCherry Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+POMEGRANATE:
+  name: "&4Pomegranate"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+POMEGRANATE_SAPLING:
+  name: "&4Pomegranate Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+POMEGRANATE_JUICE:
+  name: "&4Pomegranate Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+POMEGRANATE_PIE:
+  name: "&4Pomegranate Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+LEMON:
+  name: "&eLemon"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+LEMON_SAPLING:
+  name: "&eLemon Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+LEMON_JUICE:
+  name: "&eLemon Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+LEMON_PIE:
+  name: "&eLemon Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+PLUM:
+  name: "&5Plum"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+PLUM_SAPLING:
+  name: "&5Plum Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+PLUM_JUICE:
+  name: "&5Plum Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+PLUM_PIE:
+  name: "&5Plum Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+LIME:
+  name: "&aLime"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+LIME_SAPLING:
+  name: "&aLime Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+LIME_JUICE:
+  name: "&aLime Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+LIME_PIE:
+  name: "&aLime Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+ORANGE:
+  name: "&6Orange"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+ORANGE_SAPLING:
+  name: "&6Orange Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+ORANGE_JUICE:
+  name: "&6Orange Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+ORANGE_PIE:
+  name: "&6Orange Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+PEACH:
+  name: "&5Peach"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+PEACH_SAPLING:
+  name: "&5Peach Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+PEACH_JUICE:
+  name: "&5Peach Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+PEACH_PIE:
+  name: "&5Peach Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+PEAR:
+  name: "&aPear"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+PEAR_SAPLING:
+  name: "&aPear Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+PEAR_JUICE:
+  name: "&aPear Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+PEAR_PIE:
+  name: "&aPear Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+DRAGON_FRUIT:
+  name: "&dDragon Fruit"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7A fresh Exotic Garden harvest."
+    - "&7Eat it raw, juice it, or cook it into a dish."
+
+DRAGON_FRUIT_SAPLING:
+  name: "&dDragon Fruit Sapling"
+  type:
+    - "&7&oComponent"
+  description:
+    - "&7Plant on dirt to grow a fruit tree."
+    - "&7Punch the fruit blocks it bears to harvest."
+
+DRAGON_FRUIT_JUICE:
+  name: "&dDragon Fruit Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+DRAGON_FRUIT_PIE:
+  name: "&dDragon Fruit Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+DIRT_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Dirt"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+DIRT_PLANT:
+  name: "&rDirt Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+COAL_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Coal"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+COAL_PLANT:
+  name: "&rCoal Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+IRON_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Iron"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+IRON_PLANT:
+  name: "&rIron Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+GOLD_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Gold"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+GOLD_PLANT:
+  name: "&rGold Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+COPPER_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Copper"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+COPPER_PLANT:
+  name: "&rCopper Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+ALUMINUM_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Aluminum"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+ALUMINUM_PLANT:
+  name: "&rAluminum Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+TIN_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Tin"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+TIN_PLANT:
+  name: "&rTin Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+SILVER_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Silver"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+SILVER_PLANT:
+  name: "&rSilver Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+LEAD_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Lead"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+LEAD_PLANT:
+  name: "&rLead Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+REDSTONE_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Redstone"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+REDSTONE_PLANT:
+  name: "&rRedstone Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+LAPIS_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Lapis"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+LAPIS_PLANT:
+  name: "&rLapis Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+ENDER_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Ender"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+ENDER_PLANT:
+  name: "&rEnder Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+QUARTZ_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Quartz"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+QUARTZ_PLANT:
+  name: "&rQuartz Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+DIAMOND_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Diamond"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+DIAMOND_PLANT:
+  name: "&rDiamond Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+EMERALD_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Emerald"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+EMERALD_PLANT:
+  name: "&rEmerald Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+NETHERITE_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Netherite"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+NETHERITE_PLANT:
+  name: "&rNetherite Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+GLOWSTONE_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Glowstone"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+GLOWSTONE_PLANT:
+  name: "&rGlowstone Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+OBSIDIAN_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Obsidian"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+OBSIDIAN_PLANT:
+  name: "&rObsidian Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+SLIME_ESSENCE:
+  name: "&rMagical Essence"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7Slime"
+    - "&7Craft it into the matching Plant to grow the resource."
+
+SLIME_PLANT:
+  name: "&rSlime Plant"
+  type:
+    - "&7&oMagical"
+  description:
+    - "&7A magical crop. Plant on dirt and let it grow, then harvest for its resource."
+    - "&7Higher tiers need the previous tier's plant in the recipe."
+
+LIME_SMOOTHIE:
+  name: "&aLime Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+TOMATO_JUICE:
+  name: "&4Tomato Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+WINE:
+  name: "&cWine"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+LEMON_ICED_TEA:
+  name: "&eLemon Iced Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+RASPBERRY_ICED_TEA:
+  name: "&dRaspberry Iced Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+PEACH_ICED_TEA:
+  name: "&dPeach Iced Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4Strawberry Iced Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+CHERRY_ICED_TEA:
+  name: "&cCherry Iced Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+THAI_TEA:
+  name: "&6Thai Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o7.0 &7&oHunger"
+
+LEMONADE:
+  name: "&eLemonade"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.0 &7&oHunger"
+
+PINEAPPLE_JUICE:
+  name: "&6Pineapple Juice"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6Pineapple Smoothie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+SWEETENED_TEA:
+  name: "&aSweetened Tea"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o3.0 &7&oHunger"
+
+HOT_CHOCOLATE:
+  name: "&6Hot Chocolate"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.0 &7&oHunger"
+
+PINACOLADA:
+  name: "&6Pinacolada"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o7.0 &7&oHunger"
+
+PUMPKIN_BREAD:
+  name: "&rPumpkin Bread"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.0 &7&oHunger"
+
+CHOCOLATE_BAR:
+  name: "&rChocolate Bar"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o1.5 &7&oHunger"
+
+POTATO_SALAD:
+  name: "&rPotato Salad"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+CHICKEN_SANDWICH:
+  name: "&rChicken Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.5 &7&oHunger"
+
+FISH_SANDWICH:
+  name: "&rFish Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.5 &7&oHunger"
+
+BAGEL:
+  name: "&rBagel"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o2.0 &7&oHunger"
+
+EGG_SALAD:
+  name: "&rEgg Salad"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+TOMATO_SOUP:
+  name: "&4Tomato Soup"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.5 &7&oHunger"
+
+STRAWBERRY_SALAD:
+  name: "&cStrawberry Salad"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+GRAPE_SALAD:
+  name: "&cGrape Salad"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+CHICKEN_CURRY:
+  name: "&rChicken Curry"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&rCoconut Chicken Curry"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.5 &7&oHunger"
+
+BISCUIT:
+  name: "&6Biscuit"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o2.0 &7&oHunger"
+
+BISCUITS_GRAVY:
+  name: "&rBiscuits and Country Gravy"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+CHEESECAKE:
+  name: "&rCheesecake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+CHERRY_CHEESECAKE:
+  name: "&cCherry Cheesecake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9Blueberry Cheesecake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6Pumpkin Cheesecake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6Sweetened Pear Cheesecake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+BLACKBERRY_COBBLER:
+  name: "&8Blackberry Cobbler"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+PAVLOVA:
+  name: "&rPavlova"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+CORN_ON_THE_COB:
+  name: "&6Corn on the Cob"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.5 &7&oHunger"
+
+CREAMED_CORN:
+  name: "&rCreamed Corn"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.0 &7&oHunger"
+
+BACON:
+  name: "&rBacon"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o1.5 &7&oHunger"
+
+SANDWICH:
+  name: "&rSandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.5 &7&oHunger"
+
+BLT:
+  name: "&rBLT"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&rLeafy Chicken Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+LEAFY_FISH_SANDWICH:
+  name: "&rLeafy Fish Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+HAMBURGER:
+  name: "&rHamburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+CHEESEBURGER:
+  name: "&rCheeseburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+BACON_CHEESEBURGER:
+  name: "&rBacon Cheeseburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+DELUXE_CHEESEBURGER:
+  name: "&rDeluxe Cheeseburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+GARLIC_BREAD:
+  name: "&rGarlic Bread"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+GARLIC_CHEESE_BREAD:
+  name: "&rGarlic Cheese Bread"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+CARROT_CAKE:
+  name: "&rCarrot Cake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+CHICKEN_BURGER:
+  name: "&rChickenburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+CHICKEN_CHEESEBURGER:
+  name: "&rChicken Cheeseburger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+BACON_BURGER:
+  name: "&rBacon Burger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+BACON_SANDWICH:
+  name: "&rBacon Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.5 &7&oHunger"
+
+TACO:
+  name: "&rTaco"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+FISH_TACO:
+  name: "&rFish Taco"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+STREET_TACO:
+  name: "&rStreet Taco"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+JAMMY_DODGER:
+  name: "&cJammy Dodger"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+PANCAKES:
+  name: "&rPancakes"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+BLUEBERRY_PANCAKES:
+  name: "&rBlueberry Pancakes"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+SWEET_BERRY_PANCAKES:
+  name: "&rSweet Berry Pancakes"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+FRIES:
+  name: "&rFries"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+POPCORN:
+  name: "&rPopcorn"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.0 &7&oHunger"
+
+SWEET_POPCORN:
+  name: "&rPopcorn &7(Sweet)"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+SALTY_POPCORN:
+  name: "&rPopcorn &7(Salty)"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+SHEPARDS_PIE:
+  name: "&rShepard's Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+CHICKEN_POT_PIE:
+  name: "&rChicken Pot Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+CHOCOLATE_CAKE:
+  name: "&rChocolate Cake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+CREAM_COOKIE:
+  name: "&rCream Cookie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+BLUEBERRY_MUFFIN:
+  name: "&rBlueberry Muffin"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+PUMPKIN_MUFFIN:
+  name: "&rPumpkin Muffin"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&rChocolate Chip Muffin"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+BOSTON_CREAM_PIE:
+  name: "&rBoston Cream Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o4.5 &7&oHunger"
+
+HOT_DOG:
+  name: "&rHot Dog"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.0 &7&oHunger"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&rBacon wrapped Cheese filled Hot Dog"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7&o\"When I chef\" - @Eyamaz"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&rBBQ Bacon wrapped Hot Dog"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7&o\"wanna talk about hot dogs?\" - @Pahimar"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&rBBQ Double Bacon wrapped Hot Dog in a Tortilla with Cheese"
+  type:
+    - "&7&oFood"
+  description:
+    - "&7&o\"When I chef\" - @Eyamaz"
+  stats:
+    - "&7&oRestores &b&o10.0 &7&oHunger"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&cChocolate Strawberry"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o2.5 &7&oHunger"
+
+SWEET_POTATO_PIE:
+  name: "&rSweet Potato Pie"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.5 &7&oHunger"
+
+LAMINGTON:
+  name: "&rLamington"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+WAFFLES:
+  name: "&rWaffles"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o6.0 &7&oHunger"
+
+CLUB_SANDWICH:
+  name: "&rClub Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.5 &7&oHunger"
+
+BURRITO:
+  name: "&rBurrito"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+CHICKEN_BURRITO:
+  name: "&rChicken Burrito"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+GRILLED_SANDWICH:
+  name: "&rGrilled Sandwich"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o5.5 &7&oHunger"
+
+LASAGNA:
+  name: "&rLasagna"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.5 &7&oHunger"
+
+ICE_CREAM:
+  name: "&rIce Cream"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+TIRAMISU:
+  name: "&rTiramisu"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o8.0 &7&oHunger"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&rTiramisu with Strawberries"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&rTiramisu with Raspberries"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&rTiramisu with Blackberries"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&rChocolate Pear Cake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.5 &7&oHunger"
+
+APPLE_PEAR_CAKE:
+  name: "&cApple Pear Cake"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o9.0 &7&oHunger"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&cStuffed Red Bell Pepper"
+  type:
+    - "&7&oFood"
+  stats:
+    - "&7&oRestores &b&o7.0 &7&oHunger"

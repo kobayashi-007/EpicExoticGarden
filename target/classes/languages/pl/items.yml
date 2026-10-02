@@ -1,0 +1,793 @@
+# Polish item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bKostka lodu"
+
+CROOK:
+  name: "&rHak"
+
+GRASS_SEEDS:
+  name: "&rNasiona trawy"
+
+KITCHEN:
+  name: "&eKuchnia"
+
+MAYO:
+  name: "&rMajonez"
+
+MUSTARD:
+  name: "&eMusztarda"
+
+BBQ_SAUCE:
+  name: "&cSos barbecue"
+
+VEGETABLE_OIL:
+  name: "&rOlej roślinny"
+
+CORNMEAL:
+  name: "&rMąka kukurydziana"
+
+YEAST:
+  name: "&rDrożdże"
+
+MOLASSES:
+  name: "&8Melasa"
+
+BROWN_SUGAR:
+  name: "&rBrązowy cukier"
+
+COUNTRY_GRAVY:
+  name: "&rSos wiejski"
+
+GRAPE:
+  name: "&cWinogrono"
+
+GRAPE_BUSH:
+  name: "&cWinogrono Krzew"
+
+GRAPE_JUICE:
+  name: "&cWinogrono Sok"
+
+GRAPE_SMOOTHIE:
+  name: "&cWinogrono Smoothie"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&cWinogrono Kanapka z dżemem"
+
+GRAPE_PIE:
+  name: "&cWinogrono Ciasto"
+
+BLUEBERRY:
+  name: "&9Borówka"
+
+BLUEBERRY_BUSH:
+  name: "&9Borówka Krzew"
+
+BLUEBERRY_JUICE:
+  name: "&9Borówka Sok"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9Borówka Smoothie"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9Borówka Kanapka z dżemem"
+
+BLUEBERRY_PIE:
+  name: "&9Borówka Ciasto"
+
+ELDERBERRY:
+  name: "&cCzarny bez"
+
+ELDERBERRY_BUSH:
+  name: "&cCzarny bez Krzew"
+
+ELDERBERRY_JUICE:
+  name: "&cCzarny bez Sok"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&cCzarny bez Smoothie"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&cCzarny bez Kanapka z dżemem"
+
+ELDERBERRY_PIE:
+  name: "&cCzarny bez Ciasto"
+
+RASPBERRY:
+  name: "&dMalina"
+
+RASPBERRY_BUSH:
+  name: "&dMalina Krzew"
+
+RASPBERRY_JUICE:
+  name: "&dMalina Sok"
+
+RASPBERRY_SMOOTHIE:
+  name: "&dMalina Smoothie"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&dMalina Kanapka z dżemem"
+
+RASPBERRY_PIE:
+  name: "&dMalina Ciasto"
+
+BLACKBERRY:
+  name: "&8Jeżyna"
+
+BLACKBERRY_BUSH:
+  name: "&8Jeżyna Krzew"
+
+BLACKBERRY_JUICE:
+  name: "&8Jeżyna Sok"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8Jeżyna Smoothie"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8Jeżyna Kanapka z dżemem"
+
+BLACKBERRY_PIE:
+  name: "&8Jeżyna Ciasto"
+
+CRANBERRY:
+  name: "&cŻurawina"
+
+CRANBERRY_BUSH:
+  name: "&cŻurawina Krzew"
+
+CRANBERRY_JUICE:
+  name: "&cŻurawina Sok"
+
+CRANBERRY_SMOOTHIE:
+  name: "&cŻurawina Smoothie"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&cŻurawina Kanapka z dżemem"
+
+CRANBERRY_PIE:
+  name: "&cŻurawina Ciasto"
+
+COWBERRY:
+  name: "&cBorówka brusznica"
+
+COWBERRY_BUSH:
+  name: "&cBorówka brusznica Krzew"
+
+COWBERRY_JUICE:
+  name: "&cBorówka brusznica Sok"
+
+COWBERRY_SMOOTHIE:
+  name: "&cBorówka brusznica Smoothie"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&cBorówka brusznica Kanapka z dżemem"
+
+COWBERRY_PIE:
+  name: "&cBorówka brusznica Ciasto"
+
+STRAWBERRY:
+  name: "&4Truskawka"
+
+STRAWBERRY_BUSH:
+  name: "&4Truskawka Krzew"
+
+STRAWBERRY_JUICE:
+  name: "&4Truskawka Sok"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4Truskawka Smoothie"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4Truskawka Kanapka z dżemem"
+
+STRAWBERRY_PIE:
+  name: "&4Truskawka Ciasto"
+
+TOMATO:
+  name: "&4Pomidor"
+
+TOMATO_BUSH:
+  name: "&4Pomidor Roślina"
+
+LETTUCE:
+  name: "&2Sałata"
+
+LETTUCE_BUSH:
+  name: "&2Sałata Roślina"
+
+TEA_LEAF:
+  name: "&aLiść herbaty"
+
+TEA_LEAF_BUSH:
+  name: "&aLiść herbaty Roślina"
+
+CABBAGE:
+  name: "&2Kapusta"
+
+CABBAGE_BUSH:
+  name: "&2Kapusta Roślina"
+
+SWEET_POTATO:
+  name: "&6Batat"
+
+SWEET_POTATO_BUSH:
+  name: "&6Batat Roślina"
+
+MUSTARD_SEED:
+  name: "&eZiarno gorczycy"
+
+MUSTARD_SEED_BUSH:
+  name: "&eZiarno gorczycy Roślina"
+
+CURRY_LEAF:
+  name: "&2Liść curry"
+
+CURRY_LEAF_BUSH:
+  name: "&2Liść curry Roślina"
+
+ONION:
+  name: "&cCebula"
+
+ONION_BUSH:
+  name: "&cCebula Roślina"
+
+GARLIC:
+  name: "&rCzosnek"
+
+GARLIC_BUSH:
+  name: "&rCzosnek Roślina"
+
+CILANTRO:
+  name: "&aKolendra"
+
+CILANTRO_BUSH:
+  name: "&aKolendra Roślina"
+
+BLACK_PEPPER:
+  name: "&8Czarny pieprz"
+
+BLACK_PEPPER_BUSH:
+  name: "&8Czarny pieprz Roślina"
+
+CORN:
+  name: "&6Kukurydza"
+
+CORN_BUSH:
+  name: "&6Kukurydza Roślina"
+
+PINEAPPLE:
+  name: "&6Ananas"
+
+PINEAPPLE_BUSH:
+  name: "&6Ananas Roślina"
+
+RED_BELL_PEPPER:
+  name: "&cCzerwona papryka"
+
+RED_BELL_PEPPER_BUSH:
+  name: "&cCzerwona papryka Roślina"
+
+OAK_APPLE:
+  name: "&cDębowe jabłko"
+
+OAK_APPLE_SAPLING:
+  name: "&cDębowe jabłko Sadzonka"
+
+OAK_APPLE_JUICE:
+  name: "&cDębowe jabłko Sok"
+
+OAK_APPLE_PIE:
+  name: "&cDębowe jabłko Ciasto"
+
+COCONUT:
+  name: "&6Kokos"
+
+COCONUT_SAPLING:
+  name: "&6Kokos Sadzonka"
+
+COCONUT_MILK:
+  name: "&6Kokos Mleko"
+
+CHERRY:
+  name: "&cWiśnia"
+
+CHERRY_SAPLING:
+  name: "&cWiśnia Sadzonka"
+
+CHERRY_JUICE:
+  name: "&cWiśnia Sok"
+
+CHERRY_PIE:
+  name: "&cWiśnia Ciasto"
+
+POMEGRANATE:
+  name: "&4Granat"
+
+POMEGRANATE_SAPLING:
+  name: "&4Granat Sadzonka"
+
+POMEGRANATE_JUICE:
+  name: "&4Granat Sok"
+
+POMEGRANATE_PIE:
+  name: "&4Granat Ciasto"
+
+LEMON:
+  name: "&eCytryna"
+
+LEMON_SAPLING:
+  name: "&eCytryna Sadzonka"
+
+LEMON_JUICE:
+  name: "&eCytryna Sok"
+
+LEMON_PIE:
+  name: "&eCytryna Ciasto"
+
+PLUM:
+  name: "&5Śliwka"
+
+PLUM_SAPLING:
+  name: "&5Śliwka Sadzonka"
+
+PLUM_JUICE:
+  name: "&5Śliwka Sok"
+
+PLUM_PIE:
+  name: "&5Śliwka Ciasto"
+
+LIME:
+  name: "&aLimonka"
+
+LIME_SAPLING:
+  name: "&aLimonka Sadzonka"
+
+LIME_JUICE:
+  name: "&aLimonka Sok"
+
+LIME_PIE:
+  name: "&aLimonka Ciasto"
+
+ORANGE:
+  name: "&6Pomarańcza"
+
+ORANGE_SAPLING:
+  name: "&6Pomarańcza Sadzonka"
+
+ORANGE_JUICE:
+  name: "&6Pomarańcza Sok"
+
+ORANGE_PIE:
+  name: "&6Pomarańcza Ciasto"
+
+PEACH:
+  name: "&5Brzoskwinia"
+
+PEACH_SAPLING:
+  name: "&5Brzoskwinia Sadzonka"
+
+PEACH_JUICE:
+  name: "&5Brzoskwinia Sok"
+
+PEACH_PIE:
+  name: "&5Brzoskwinia Ciasto"
+
+PEAR:
+  name: "&aGruszka"
+
+PEAR_SAPLING:
+  name: "&aGruszka Sadzonka"
+
+PEAR_JUICE:
+  name: "&aGruszka Sok"
+
+PEAR_PIE:
+  name: "&aGruszka Ciasto"
+
+DRAGON_FRUIT:
+  name: "&dSmoczy owoc"
+
+DRAGON_FRUIT_SAPLING:
+  name: "&dSmoczy owoc Sadzonka"
+
+DRAGON_FRUIT_JUICE:
+  name: "&dSmoczy owoc Sok"
+
+DRAGON_FRUIT_PIE:
+  name: "&dSmoczy owoc Ciasto"
+
+DIRT_ESSENCE:
+  name: "&rMagiczna esencja"
+
+DIRT_PLANT:
+  name: "&rZiemia Roślina"
+
+COAL_ESSENCE:
+  name: "&rMagiczna esencja"
+
+COAL_PLANT:
+  name: "&rWęgiel Roślina"
+
+IRON_ESSENCE:
+  name: "&rMagiczna esencja"
+
+IRON_PLANT:
+  name: "&rŻelazo Roślina"
+
+GOLD_ESSENCE:
+  name: "&rMagiczna esencja"
+
+GOLD_PLANT:
+  name: "&rZłoto Roślina"
+
+COPPER_ESSENCE:
+  name: "&rMagiczna esencja"
+
+COPPER_PLANT:
+  name: "&rMiedź Roślina"
+
+ALUMINUM_ESSENCE:
+  name: "&rMagiczna esencja"
+
+ALUMINUM_PLANT:
+  name: "&rAluminium Roślina"
+
+TIN_ESSENCE:
+  name: "&rMagiczna esencja"
+
+TIN_PLANT:
+  name: "&rCyna Roślina"
+
+SILVER_ESSENCE:
+  name: "&rMagiczna esencja"
+
+SILVER_PLANT:
+  name: "&rSrebro Roślina"
+
+LEAD_ESSENCE:
+  name: "&rMagiczna esencja"
+
+LEAD_PLANT:
+  name: "&rOłów Roślina"
+
+REDSTONE_ESSENCE:
+  name: "&rMagiczna esencja"
+
+REDSTONE_PLANT:
+  name: "&rCzerwony kamień Roślina"
+
+LAPIS_ESSENCE:
+  name: "&rMagiczna esencja"
+
+LAPIS_PLANT:
+  name: "&rLazuryt Roślina"
+
+ENDER_ESSENCE:
+  name: "&rMagiczna esencja"
+
+ENDER_PLANT:
+  name: "&rEnder Roślina"
+
+QUARTZ_ESSENCE:
+  name: "&rMagiczna esencja"
+
+QUARTZ_PLANT:
+  name: "&rKwarc Roślina"
+
+DIAMOND_ESSENCE:
+  name: "&rMagiczna esencja"
+
+DIAMOND_PLANT:
+  name: "&rDiament Roślina"
+
+EMERALD_ESSENCE:
+  name: "&rMagiczna esencja"
+
+EMERALD_PLANT:
+  name: "&rSzmaragd Roślina"
+
+NETHERITE_ESSENCE:
+  name: "&rMagiczna esencja"
+
+NETHERITE_PLANT:
+  name: "&rNetheryt Roślina"
+
+GLOWSTONE_ESSENCE:
+  name: "&rMagiczna esencja"
+
+GLOWSTONE_PLANT:
+  name: "&rJasnogłaz Roślina"
+
+OBSIDIAN_ESSENCE:
+  name: "&rMagiczna esencja"
+
+OBSIDIAN_PLANT:
+  name: "&rObsydian Roślina"
+
+SLIME_ESSENCE:
+  name: "&rMagiczna esencja"
+
+SLIME_PLANT:
+  name: "&rSzlam Roślina"
+
+LIME_SMOOTHIE:
+  name: "&aLimonka Smoothie"
+
+TOMATO_JUICE:
+  name: "&4Pomidor Sok"
+
+WINE:
+  name: "&cWino"
+
+LEMON_ICED_TEA:
+  name: "&eCytryna Mrożona herbata"
+
+RASPBERRY_ICED_TEA:
+  name: "&dMalina Mrożona herbata"
+
+PEACH_ICED_TEA:
+  name: "&dBrzoskwinia Mrożona herbata"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4Truskawka Mrożona herbata"
+
+CHERRY_ICED_TEA:
+  name: "&cWiśnia Mrożona herbata"
+
+THAI_TEA:
+  name: "&6Tajska herbata"
+
+LEMONADE:
+  name: "&eLemoniada"
+
+PINEAPPLE_JUICE:
+  name: "&6Ananas Sok"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6Ananas Smoothie"
+
+SWEETENED_TEA:
+  name: "&aSłodzona herbata"
+
+HOT_CHOCOLATE:
+  name: "&6Gorąca czekolada"
+
+PINACOLADA:
+  name: "&6Piña colada"
+
+PUMPKIN_BREAD:
+  name: "&rChleb dyniowy"
+
+CHOCOLATE_BAR:
+  name: "&rTabliczka czekolady"
+
+POTATO_SALAD:
+  name: "&rSałatka ziemniaczana"
+
+CHICKEN_SANDWICH:
+  name: "&rKanapka z kurczakiem"
+
+FISH_SANDWICH:
+  name: "&rKanapka z rybą"
+
+BAGEL:
+  name: "&rBajgiel"
+
+EGG_SALAD:
+  name: "&rSałatka jajeczna"
+
+TOMATO_SOUP:
+  name: "&4Zupa pomidorowa"
+
+STRAWBERRY_SALAD:
+  name: "&cSałatka truskawkowa"
+
+GRAPE_SALAD:
+  name: "&cSałatka winogronowa"
+
+CHICKEN_CURRY:
+  name: "&rCurry z kurczakiem"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&rCurry z kurczakiem i kokosem"
+
+BISCUIT:
+  name: "&6Herbatnik"
+
+BISCUITS_GRAVY:
+  name: "&rHerbatniki z sosem wiejskim"
+
+CHEESECAKE:
+  name: "&rSernik"
+
+CHERRY_CHEESECAKE:
+  name: "&cWiśnia Sernik"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9Borówka Sernik"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6Sernik dyniowy"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6Słodki sernik gruszkowy"
+
+BLACKBERRY_COBBLER:
+  name: "&8Kobler jeżynowy"
+
+PAVLOVA:
+  name: "&rPavlova"
+
+CORN_ON_THE_COB:
+  name: "&6Kolba kukurydzy"
+
+CREAMED_CORN:
+  name: "&rKukurydza w śmietanie"
+
+BACON:
+  name: "&rBekon"
+
+SANDWICH:
+  name: "&rKanapka"
+
+BLT:
+  name: "&rKanapka BLT"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&rKanapka z kurczakiem i sałatą"
+
+LEAFY_FISH_SANDWICH:
+  name: "&rKanapka z rybą i sałatą"
+
+HAMBURGER:
+  name: "&rHamburger"
+
+CHEESEBURGER:
+  name: "&rCheeseburger"
+
+BACON_CHEESEBURGER:
+  name: "&rCheeseburger z bekonem"
+
+DELUXE_CHEESEBURGER:
+  name: "&rCheeseburger deluxe"
+
+GARLIC_BREAD:
+  name: "&rChleb czosnkowy"
+
+GARLIC_CHEESE_BREAD:
+  name: "&rChleb czosnkowy z serem"
+
+CARROT_CAKE:
+  name: "&rCiasto marchewkowe"
+
+CHICKEN_BURGER:
+  name: "&rBurger z kurczakiem"
+
+CHICKEN_CHEESEBURGER:
+  name: "&rCheeseburger z kurczakiem"
+
+BACON_BURGER:
+  name: "&rBurger z bekonem"
+
+BACON_SANDWICH:
+  name: "&rKanapka z bekonem"
+
+TACO:
+  name: "&rTaco"
+
+FISH_TACO:
+  name: "&rTaco z rybą"
+
+STREET_TACO:
+  name: "&rUliczne taco"
+
+JAMMY_DODGER:
+  name: "&cJammy Dodger"
+
+PANCAKES:
+  name: "&rNaleśniki"
+
+BLUEBERRY_PANCAKES:
+  name: "&rNaleśniki z borówkami"
+
+SWEET_BERRY_PANCAKES:
+  name: "&rNaleśniki ze słodkimi jagodami"
+
+FRIES:
+  name: "&rFrytki"
+
+POPCORN:
+  name: "&rPopcorn"
+
+SWEET_POPCORN:
+  name: "&rPopcorn &7(Słodki)"
+
+SALTY_POPCORN:
+  name: "&rPopcorn &7(Słony)"
+
+SHEPARDS_PIE:
+  name: "&rPasterski placek"
+
+CHICKEN_POT_PIE:
+  name: "&rPlacek z kurczakiem"
+
+CHOCOLATE_CAKE:
+  name: "&rCiasto czekoladowe"
+
+CREAM_COOKIE:
+  name: "&rCiastko śmietankowe"
+
+BLUEBERRY_MUFFIN:
+  name: "&rMuffinka z borówkami"
+
+PUMPKIN_MUFFIN:
+  name: "&rMuffinka dyniowa"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&rMuffinka z czekoladą"
+
+BOSTON_CREAM_PIE:
+  name: "&rBoston cream pie"
+
+HOT_DOG:
+  name: "&rHot dog"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&rHot dog owinięty bekonem z nadzieniem serowym"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&rHot dog BBQ owinięty bekonem"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&rHot dog BBQ z podwójnym bekonem w tortilli z serem"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&cTruskawka w czekoladzie"
+
+SWEET_POTATO_PIE:
+  name: "&rPlacek z batatów"
+
+LAMINGTON:
+  name: "&rLamington"
+
+WAFFLES:
+  name: "&rGofry"
+
+CLUB_SANDWICH:
+  name: "&rKlubowa kanapka"
+
+BURRITO:
+  name: "&rBurrito"
+
+CHICKEN_BURRITO:
+  name: "&rBurrito z kurczakiem"
+
+GRILLED_SANDWICH:
+  name: "&rGrillowana kanapka"
+
+LASAGNA:
+  name: "&rLasagna"
+
+ICE_CREAM:
+  name: "&rLody"
+
+TIRAMISU:
+  name: "&rTiramisu"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&rTiramisu z truskawkami"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&rTiramisu z malinami"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&rTiramisu z jeżynami"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&rCiasto czekoladowo-gruszkowe"
+
+APPLE_PEAR_CAKE:
+  name: "&cCiasto jabłkowo-gruszkowe"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&cFaszerowana czerwona papryka"

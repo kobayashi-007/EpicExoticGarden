@@ -1,0 +1,793 @@
+# Simplified Chinese item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&b冰块"
+
+CROOK:
+  name: "&r采集钩"
+
+GRASS_SEEDS:
+  name: "&r草种子"
+
+KITCHEN:
+  name: "&e厨房"
+
+MAYO:
+  name: "&r蛋黄酱"
+
+MUSTARD:
+  name: "&e芥末酱"
+
+BBQ_SAUCE:
+  name: "&c烧烤酱"
+
+VEGETABLE_OIL:
+  name: "&r植物油"
+
+CORNMEAL:
+  name: "&r玉米粉"
+
+YEAST:
+  name: "&r酵母"
+
+MOLASSES:
+  name: "&8糖蜜"
+
+BROWN_SUGAR:
+  name: "&r红糖"
+
+COUNTRY_GRAVY:
+  name: "&r乡村肉汁"
+
+GRAPE:
+  name: "&c葡萄"
+
+GRAPE_BUSH:
+  name: "&c葡萄灌木"
+
+GRAPE_JUICE:
+  name: "&c葡萄果汁"
+
+GRAPE_SMOOTHIE:
+  name: "&c葡萄冰沙"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&c葡萄果酱三明治"
+
+GRAPE_PIE:
+  name: "&c葡萄派"
+
+BLUEBERRY:
+  name: "&9蓝莓"
+
+BLUEBERRY_BUSH:
+  name: "&9蓝莓灌木"
+
+BLUEBERRY_JUICE:
+  name: "&9蓝莓果汁"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9蓝莓冰沙"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9蓝莓果酱三明治"
+
+BLUEBERRY_PIE:
+  name: "&9蓝莓派"
+
+ELDERBERRY:
+  name: "&c接骨木莓"
+
+ELDERBERRY_BUSH:
+  name: "&c接骨木莓灌木"
+
+ELDERBERRY_JUICE:
+  name: "&c接骨木莓果汁"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&c接骨木莓冰沙"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&c接骨木莓果酱三明治"
+
+ELDERBERRY_PIE:
+  name: "&c接骨木莓派"
+
+RASPBERRY:
+  name: "&d覆盆子"
+
+RASPBERRY_BUSH:
+  name: "&d覆盆子灌木"
+
+RASPBERRY_JUICE:
+  name: "&d覆盆子果汁"
+
+RASPBERRY_SMOOTHIE:
+  name: "&d覆盆子冰沙"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&d覆盆子果酱三明治"
+
+RASPBERRY_PIE:
+  name: "&d覆盆子派"
+
+BLACKBERRY:
+  name: "&8黑莓"
+
+BLACKBERRY_BUSH:
+  name: "&8黑莓灌木"
+
+BLACKBERRY_JUICE:
+  name: "&8黑莓果汁"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8黑莓冰沙"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8黑莓果酱三明治"
+
+BLACKBERRY_PIE:
+  name: "&8黑莓派"
+
+CRANBERRY:
+  name: "&c蔓越莓"
+
+CRANBERRY_BUSH:
+  name: "&c蔓越莓灌木"
+
+CRANBERRY_JUICE:
+  name: "&c蔓越莓果汁"
+
+CRANBERRY_SMOOTHIE:
+  name: "&c蔓越莓冰沙"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&c蔓越莓果酱三明治"
+
+CRANBERRY_PIE:
+  name: "&c蔓越莓派"
+
+COWBERRY:
+  name: "&c越橘"
+
+COWBERRY_BUSH:
+  name: "&c越橘灌木"
+
+COWBERRY_JUICE:
+  name: "&c越橘果汁"
+
+COWBERRY_SMOOTHIE:
+  name: "&c越橘冰沙"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&c越橘果酱三明治"
+
+COWBERRY_PIE:
+  name: "&c越橘派"
+
+STRAWBERRY:
+  name: "&4草莓"
+
+STRAWBERRY_BUSH:
+  name: "&4草莓灌木"
+
+STRAWBERRY_JUICE:
+  name: "&4草莓果汁"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4草莓冰沙"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4草莓果酱三明治"
+
+STRAWBERRY_PIE:
+  name: "&4草莓派"
+
+TOMATO:
+  name: "&4番茄"
+
+TOMATO_BUSH:
+  name: "&4番茄植株"
+
+LETTUCE:
+  name: "&2生菜"
+
+LETTUCE_BUSH:
+  name: "&2生菜植株"
+
+TEA_LEAF:
+  name: "&a茶叶"
+
+TEA_LEAF_BUSH:
+  name: "&a茶叶植株"
+
+CABBAGE:
+  name: "&2卷心菜"
+
+CABBAGE_BUSH:
+  name: "&2卷心菜植株"
+
+SWEET_POTATO:
+  name: "&6红薯"
+
+SWEET_POTATO_BUSH:
+  name: "&6红薯植株"
+
+MUSTARD_SEED:
+  name: "&e芥菜籽"
+
+MUSTARD_SEED_BUSH:
+  name: "&e芥菜籽植株"
+
+CURRY_LEAF:
+  name: "&2咖喱叶"
+
+CURRY_LEAF_BUSH:
+  name: "&2咖喱叶植株"
+
+ONION:
+  name: "&c洋葱"
+
+ONION_BUSH:
+  name: "&c洋葱植株"
+
+GARLIC:
+  name: "&r大蒜"
+
+GARLIC_BUSH:
+  name: "&r大蒜植株"
+
+CILANTRO:
+  name: "&a香菜"
+
+CILANTRO_BUSH:
+  name: "&a香菜植株"
+
+BLACK_PEPPER:
+  name: "&8黑胡椒"
+
+BLACK_PEPPER_BUSH:
+  name: "&8黑胡椒植株"
+
+CORN:
+  name: "&6玉米"
+
+CORN_BUSH:
+  name: "&6玉米植株"
+
+PINEAPPLE:
+  name: "&6菠萝"
+
+PINEAPPLE_BUSH:
+  name: "&6菠萝植株"
+
+RED_BELL_PEPPER:
+  name: "&c红甜椒"
+
+RED_BELL_PEPPER_BUSH:
+  name: "&c红甜椒植株"
+
+OAK_APPLE:
+  name: "&c橡果苹果"
+
+OAK_APPLE_SAPLING:
+  name: "&c橡果苹果树苗"
+
+OAK_APPLE_JUICE:
+  name: "&c橡果苹果果汁"
+
+OAK_APPLE_PIE:
+  name: "&c橡果苹果派"
+
+COCONUT:
+  name: "&6椰子"
+
+COCONUT_SAPLING:
+  name: "&6椰子树苗"
+
+COCONUT_MILK:
+  name: "&6椰子奶"
+
+CHERRY:
+  name: "&c樱桃"
+
+CHERRY_SAPLING:
+  name: "&c樱桃树苗"
+
+CHERRY_JUICE:
+  name: "&c樱桃果汁"
+
+CHERRY_PIE:
+  name: "&c樱桃派"
+
+POMEGRANATE:
+  name: "&4石榴"
+
+POMEGRANATE_SAPLING:
+  name: "&4石榴树苗"
+
+POMEGRANATE_JUICE:
+  name: "&4石榴果汁"
+
+POMEGRANATE_PIE:
+  name: "&4石榴派"
+
+LEMON:
+  name: "&e柠檬"
+
+LEMON_SAPLING:
+  name: "&e柠檬树苗"
+
+LEMON_JUICE:
+  name: "&e柠檬果汁"
+
+LEMON_PIE:
+  name: "&e柠檬派"
+
+PLUM:
+  name: "&5李子"
+
+PLUM_SAPLING:
+  name: "&5李子树苗"
+
+PLUM_JUICE:
+  name: "&5李子果汁"
+
+PLUM_PIE:
+  name: "&5李子派"
+
+LIME:
+  name: "&a青柠"
+
+LIME_SAPLING:
+  name: "&a青柠树苗"
+
+LIME_JUICE:
+  name: "&a青柠果汁"
+
+LIME_PIE:
+  name: "&a青柠派"
+
+ORANGE:
+  name: "&6橙子"
+
+ORANGE_SAPLING:
+  name: "&6橙子树苗"
+
+ORANGE_JUICE:
+  name: "&6橙子果汁"
+
+ORANGE_PIE:
+  name: "&6橙子派"
+
+PEACH:
+  name: "&5桃子"
+
+PEACH_SAPLING:
+  name: "&5桃子树苗"
+
+PEACH_JUICE:
+  name: "&5桃子果汁"
+
+PEACH_PIE:
+  name: "&5桃子派"
+
+PEAR:
+  name: "&a梨"
+
+PEAR_SAPLING:
+  name: "&a梨树苗"
+
+PEAR_JUICE:
+  name: "&a梨果汁"
+
+PEAR_PIE:
+  name: "&a梨派"
+
+DRAGON_FRUIT:
+  name: "&d火龙果"
+
+DRAGON_FRUIT_SAPLING:
+  name: "&d火龙果树苗"
+
+DRAGON_FRUIT_JUICE:
+  name: "&d火龙果果汁"
+
+DRAGON_FRUIT_PIE:
+  name: "&d火龙果派"
+
+DIRT_ESSENCE:
+  name: "&r魔法精华"
+
+DIRT_PLANT:
+  name: "&r泥土植株"
+
+COAL_ESSENCE:
+  name: "&r魔法精华"
+
+COAL_PLANT:
+  name: "&r煤炭植株"
+
+IRON_ESSENCE:
+  name: "&r魔法精华"
+
+IRON_PLANT:
+  name: "&r铁植株"
+
+GOLD_ESSENCE:
+  name: "&r魔法精华"
+
+GOLD_PLANT:
+  name: "&r金植株"
+
+COPPER_ESSENCE:
+  name: "&r魔法精华"
+
+COPPER_PLANT:
+  name: "&r铜植株"
+
+ALUMINUM_ESSENCE:
+  name: "&r魔法精华"
+
+ALUMINUM_PLANT:
+  name: "&r铝植株"
+
+TIN_ESSENCE:
+  name: "&r魔法精华"
+
+TIN_PLANT:
+  name: "&r锡植株"
+
+SILVER_ESSENCE:
+  name: "&r魔法精华"
+
+SILVER_PLANT:
+  name: "&r银植株"
+
+LEAD_ESSENCE:
+  name: "&r魔法精华"
+
+LEAD_PLANT:
+  name: "&r铅植株"
+
+REDSTONE_ESSENCE:
+  name: "&r魔法精华"
+
+REDSTONE_PLANT:
+  name: "&r红石植株"
+
+LAPIS_ESSENCE:
+  name: "&r魔法精华"
+
+LAPIS_PLANT:
+  name: "&r青金石植株"
+
+ENDER_ESSENCE:
+  name: "&r魔法精华"
+
+ENDER_PLANT:
+  name: "&r末影植株"
+
+QUARTZ_ESSENCE:
+  name: "&r魔法精华"
+
+QUARTZ_PLANT:
+  name: "&r石英植株"
+
+DIAMOND_ESSENCE:
+  name: "&r魔法精华"
+
+DIAMOND_PLANT:
+  name: "&r钻石植株"
+
+EMERALD_ESSENCE:
+  name: "&r魔法精华"
+
+EMERALD_PLANT:
+  name: "&r绿宝石植株"
+
+NETHERITE_ESSENCE:
+  name: "&r魔法精华"
+
+NETHERITE_PLANT:
+  name: "&r下界合金植株"
+
+GLOWSTONE_ESSENCE:
+  name: "&r魔法精华"
+
+GLOWSTONE_PLANT:
+  name: "&r荧石植株"
+
+OBSIDIAN_ESSENCE:
+  name: "&r魔法精华"
+
+OBSIDIAN_PLANT:
+  name: "&r黑曜石植株"
+
+SLIME_ESSENCE:
+  name: "&r魔法精华"
+
+SLIME_PLANT:
+  name: "&r黏液植株"
+
+LIME_SMOOTHIE:
+  name: "&a青柠冰沙"
+
+TOMATO_JUICE:
+  name: "&4番茄果汁"
+
+WINE:
+  name: "&c葡萄酒"
+
+LEMON_ICED_TEA:
+  name: "&e柠檬冰茶"
+
+RASPBERRY_ICED_TEA:
+  name: "&d覆盆子冰茶"
+
+PEACH_ICED_TEA:
+  name: "&d桃子冰茶"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4草莓冰茶"
+
+CHERRY_ICED_TEA:
+  name: "&c樱桃冰茶"
+
+THAI_TEA:
+  name: "&6泰式奶茶"
+
+LEMONADE:
+  name: "&e柠檬水"
+
+PINEAPPLE_JUICE:
+  name: "&6菠萝果汁"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6菠萝冰沙"
+
+SWEETENED_TEA:
+  name: "&a甜茶"
+
+HOT_CHOCOLATE:
+  name: "&6热巧克力"
+
+PINACOLADA:
+  name: "&6椰林飘香"
+
+PUMPKIN_BREAD:
+  name: "&r南瓜面包"
+
+CHOCOLATE_BAR:
+  name: "&r巧克力棒"
+
+POTATO_SALAD:
+  name: "&r土豆沙拉"
+
+CHICKEN_SANDWICH:
+  name: "&r鸡肉三明治"
+
+FISH_SANDWICH:
+  name: "&r鱼肉三明治"
+
+BAGEL:
+  name: "&r贝果"
+
+EGG_SALAD:
+  name: "&r鸡蛋沙拉"
+
+TOMATO_SOUP:
+  name: "&4番茄汤"
+
+STRAWBERRY_SALAD:
+  name: "&c草莓沙拉"
+
+GRAPE_SALAD:
+  name: "&c葡萄沙拉"
+
+CHICKEN_CURRY:
+  name: "&r咖喱鸡"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&r椰香咖喱鸡"
+
+BISCUIT:
+  name: "&6饼干"
+
+BISCUITS_GRAVY:
+  name: "&r饼干配乡村肉汁"
+
+CHEESECAKE:
+  name: "&r芝士蛋糕"
+
+CHERRY_CHEESECAKE:
+  name: "&c樱桃芝士蛋糕"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9蓝莓芝士蛋糕"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6南瓜芝士蛋糕"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6甜梨芝士蛋糕"
+
+BLACKBERRY_COBBLER:
+  name: "&8黑莓酥派"
+
+PAVLOVA:
+  name: "&r帕芙洛娃"
+
+CORN_ON_THE_COB:
+  name: "&6玉米棒"
+
+CREAMED_CORN:
+  name: "&r奶油玉米"
+
+BACON:
+  name: "&r培根"
+
+SANDWICH:
+  name: "&r三明治"
+
+BLT:
+  name: "&rBLT三明治"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&r生菜鸡肉三明治"
+
+LEAFY_FISH_SANDWICH:
+  name: "&r生菜鱼肉三明治"
+
+HAMBURGER:
+  name: "&r汉堡"
+
+CHEESEBURGER:
+  name: "&r芝士汉堡"
+
+BACON_CHEESEBURGER:
+  name: "&r培根芝士汉堡"
+
+DELUXE_CHEESEBURGER:
+  name: "&r豪华芝士汉堡"
+
+GARLIC_BREAD:
+  name: "&r蒜香面包"
+
+GARLIC_CHEESE_BREAD:
+  name: "&r蒜香芝士面包"
+
+CARROT_CAKE:
+  name: "&r胡萝卜蛋糕"
+
+CHICKEN_BURGER:
+  name: "&r鸡肉汉堡"
+
+CHICKEN_CHEESEBURGER:
+  name: "&r鸡肉芝士汉堡"
+
+BACON_BURGER:
+  name: "&r培根汉堡"
+
+BACON_SANDWICH:
+  name: "&r培根三明治"
+
+TACO:
+  name: "&r塔可"
+
+FISH_TACO:
+  name: "&r鱼肉塔可"
+
+STREET_TACO:
+  name: "&r街头塔可"
+
+JAMMY_DODGER:
+  name: "&c果酱夹心饼干"
+
+PANCAKES:
+  name: "&r煎饼"
+
+BLUEBERRY_PANCAKES:
+  name: "&r蓝莓煎饼"
+
+SWEET_BERRY_PANCAKES:
+  name: "&r甜浆果煎饼"
+
+FRIES:
+  name: "&r薯条"
+
+POPCORN:
+  name: "&r爆米花"
+
+SWEET_POPCORN:
+  name: "&r爆米花 &7(甜)"
+
+SALTY_POPCORN:
+  name: "&r爆米花 &7(咸)"
+
+SHEPARDS_PIE:
+  name: "&r牧羊人派"
+
+CHICKEN_POT_PIE:
+  name: "&r鸡肉派"
+
+CHOCOLATE_CAKE:
+  name: "&r巧克力蛋糕"
+
+CREAM_COOKIE:
+  name: "&r奶油饼干"
+
+BLUEBERRY_MUFFIN:
+  name: "&r蓝莓松饼"
+
+PUMPKIN_MUFFIN:
+  name: "&r南瓜松饼"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&r巧克力豆松饼"
+
+BOSTON_CREAM_PIE:
+  name: "&r波士顿奶油派"
+
+HOT_DOG:
+  name: "&r热狗"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&r培根芝士夹心热狗"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&r烧烤培根卷热狗"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&r芝士玉米饼双层培根烧烤热狗"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&c巧克力草莓"
+
+SWEET_POTATO_PIE:
+  name: "&r红薯派"
+
+LAMINGTON:
+  name: "&r拉明顿蛋糕"
+
+WAFFLES:
+  name: "&r华夫饼"
+
+CLUB_SANDWICH:
+  name: "&r总汇三明治"
+
+BURRITO:
+  name: "&r墨西哥卷饼"
+
+CHICKEN_BURRITO:
+  name: "&r鸡肉卷饼"
+
+GRILLED_SANDWICH:
+  name: "&r烤三明治"
+
+LASAGNA:
+  name: "&r千层面"
+
+ICE_CREAM:
+  name: "&r冰淇淋"
+
+TIRAMISU:
+  name: "&r提拉米苏"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&r草莓提拉米苏"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&r覆盆子提拉米苏"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&r黑莓提拉米苏"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&r巧克力梨蛋糕"
+
+APPLE_PEAR_CAKE:
+  name: "&c苹果梨蛋糕"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&c酿红甜椒"

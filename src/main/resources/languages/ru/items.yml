@@ -1,0 +1,793 @@
+# Russian item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bКубик льда"
+
+CROOK:
+  name: "&rСерп"
+
+GRASS_SEEDS:
+  name: "&rСемена травы"
+
+KITCHEN:
+  name: "&eКухня"
+
+MAYO:
+  name: "&rМайонез"
+
+MUSTARD:
+  name: "&eГорчица"
+
+BBQ_SAUCE:
+  name: "&cСоус барбекю"
+
+VEGETABLE_OIL:
+  name: "&rРастительное масло"
+
+CORNMEAL:
+  name: "&rКукурузная мука"
+
+YEAST:
+  name: "&rДрожжи"
+
+MOLASSES:
+  name: "&8Патока"
+
+BROWN_SUGAR:
+  name: "&rКоричневый сахар"
+
+COUNTRY_GRAVY:
+  name: "&rДеревенская подлива"
+
+GRAPE:
+  name: "&cВиноград"
+
+GRAPE_BUSH:
+  name: "&cВиноград Куст"
+
+GRAPE_JUICE:
+  name: "&cВиноград Сок"
+
+GRAPE_SMOOTHIE:
+  name: "&cВиноград Смузи"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&cВиноград Бутерброд с джемом"
+
+GRAPE_PIE:
+  name: "&cВиноград Пирог"
+
+BLUEBERRY:
+  name: "&9Голубика"
+
+BLUEBERRY_BUSH:
+  name: "&9Голубика Куст"
+
+BLUEBERRY_JUICE:
+  name: "&9Голубика Сок"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9Голубика Смузи"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9Голубика Бутерброд с джемом"
+
+BLUEBERRY_PIE:
+  name: "&9Голубика Пирог"
+
+ELDERBERRY:
+  name: "&cБузина"
+
+ELDERBERRY_BUSH:
+  name: "&cБузина Куст"
+
+ELDERBERRY_JUICE:
+  name: "&cБузина Сок"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&cБузина Смузи"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&cБузина Бутерброд с джемом"
+
+ELDERBERRY_PIE:
+  name: "&cБузина Пирог"
+
+RASPBERRY:
+  name: "&dМалина"
+
+RASPBERRY_BUSH:
+  name: "&dМалина Куст"
+
+RASPBERRY_JUICE:
+  name: "&dМалина Сок"
+
+RASPBERRY_SMOOTHIE:
+  name: "&dМалина Смузи"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&dМалина Бутерброд с джемом"
+
+RASPBERRY_PIE:
+  name: "&dМалина Пирог"
+
+BLACKBERRY:
+  name: "&8Ежевика"
+
+BLACKBERRY_BUSH:
+  name: "&8Ежевика Куст"
+
+BLACKBERRY_JUICE:
+  name: "&8Ежевика Сок"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8Ежевика Смузи"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8Ежевика Бутерброд с джемом"
+
+BLACKBERRY_PIE:
+  name: "&8Ежевика Пирог"
+
+CRANBERRY:
+  name: "&cКлюква"
+
+CRANBERRY_BUSH:
+  name: "&cКлюква Куст"
+
+CRANBERRY_JUICE:
+  name: "&cКлюква Сок"
+
+CRANBERRY_SMOOTHIE:
+  name: "&cКлюква Смузи"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&cКлюква Бутерброд с джемом"
+
+CRANBERRY_PIE:
+  name: "&cКлюква Пирог"
+
+COWBERRY:
+  name: "&cБрусника"
+
+COWBERRY_BUSH:
+  name: "&cБрусника Куст"
+
+COWBERRY_JUICE:
+  name: "&cБрусника Сок"
+
+COWBERRY_SMOOTHIE:
+  name: "&cБрусника Смузи"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&cБрусника Бутерброд с джемом"
+
+COWBERRY_PIE:
+  name: "&cБрусника Пирог"
+
+STRAWBERRY:
+  name: "&4Клубника"
+
+STRAWBERRY_BUSH:
+  name: "&4Клубника Куст"
+
+STRAWBERRY_JUICE:
+  name: "&4Клубника Сок"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4Клубника Смузи"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4Клубника Бутерброд с джемом"
+
+STRAWBERRY_PIE:
+  name: "&4Клубника Пирог"
+
+TOMATO:
+  name: "&4Помидор"
+
+TOMATO_BUSH:
+  name: "&4Помидор Растение"
+
+LETTUCE:
+  name: "&2Салат-латук"
+
+LETTUCE_BUSH:
+  name: "&2Салат-латук Растение"
+
+TEA_LEAF:
+  name: "&aЧайный лист"
+
+TEA_LEAF_BUSH:
+  name: "&aЧайный лист Растение"
+
+CABBAGE:
+  name: "&2Капуста"
+
+CABBAGE_BUSH:
+  name: "&2Капуста Растение"
+
+SWEET_POTATO:
+  name: "&6Батат"
+
+SWEET_POTATO_BUSH:
+  name: "&6Батат Растение"
+
+MUSTARD_SEED:
+  name: "&eСемя горчицы"
+
+MUSTARD_SEED_BUSH:
+  name: "&eСемя горчицы Растение"
+
+CURRY_LEAF:
+  name: "&2Лист карри"
+
+CURRY_LEAF_BUSH:
+  name: "&2Лист карри Растение"
+
+ONION:
+  name: "&cЛук"
+
+ONION_BUSH:
+  name: "&cЛук Растение"
+
+GARLIC:
+  name: "&rЧеснок"
+
+GARLIC_BUSH:
+  name: "&rЧеснок Растение"
+
+CILANTRO:
+  name: "&aКинза"
+
+CILANTRO_BUSH:
+  name: "&aКинза Растение"
+
+BLACK_PEPPER:
+  name: "&8Чёрный перец"
+
+BLACK_PEPPER_BUSH:
+  name: "&8Чёрный перец Растение"
+
+CORN:
+  name: "&6Кукуруза"
+
+CORN_BUSH:
+  name: "&6Кукуруза Растение"
+
+PINEAPPLE:
+  name: "&6Ананас"
+
+PINEAPPLE_BUSH:
+  name: "&6Ананас Растение"
+
+RED_BELL_PEPPER:
+  name: "&cКрасный болгарский перец"
+
+RED_BELL_PEPPER_BUSH:
+  name: "&cКрасный болгарский перец Растение"
+
+OAK_APPLE:
+  name: "&cДубовое яблоко"
+
+OAK_APPLE_SAPLING:
+  name: "&cДубовое яблоко Саженец"
+
+OAK_APPLE_JUICE:
+  name: "&cДубовое яблоко Сок"
+
+OAK_APPLE_PIE:
+  name: "&cДубовое яблоко Пирог"
+
+COCONUT:
+  name: "&6Кокос"
+
+COCONUT_SAPLING:
+  name: "&6Кокос Саженец"
+
+COCONUT_MILK:
+  name: "&6Кокос Молоко"
+
+CHERRY:
+  name: "&cВишня"
+
+CHERRY_SAPLING:
+  name: "&cВишня Саженец"
+
+CHERRY_JUICE:
+  name: "&cВишня Сок"
+
+CHERRY_PIE:
+  name: "&cВишня Пирог"
+
+POMEGRANATE:
+  name: "&4Гранат"
+
+POMEGRANATE_SAPLING:
+  name: "&4Гранат Саженец"
+
+POMEGRANATE_JUICE:
+  name: "&4Гранат Сок"
+
+POMEGRANATE_PIE:
+  name: "&4Гранат Пирог"
+
+LEMON:
+  name: "&eЛимон"
+
+LEMON_SAPLING:
+  name: "&eЛимон Саженец"
+
+LEMON_JUICE:
+  name: "&eЛимон Сок"
+
+LEMON_PIE:
+  name: "&eЛимон Пирог"
+
+PLUM:
+  name: "&5Слива"
+
+PLUM_SAPLING:
+  name: "&5Слива Саженец"
+
+PLUM_JUICE:
+  name: "&5Слива Сок"
+
+PLUM_PIE:
+  name: "&5Слива Пирог"
+
+LIME:
+  name: "&aЛайм"
+
+LIME_SAPLING:
+  name: "&aЛайм Саженец"
+
+LIME_JUICE:
+  name: "&aЛайм Сок"
+
+LIME_PIE:
+  name: "&aЛайм Пирог"
+
+ORANGE:
+  name: "&6Апельсин"
+
+ORANGE_SAPLING:
+  name: "&6Апельсин Саженец"
+
+ORANGE_JUICE:
+  name: "&6Апельсин Сок"
+
+ORANGE_PIE:
+  name: "&6Апельсин Пирог"
+
+PEACH:
+  name: "&5Персик"
+
+PEACH_SAPLING:
+  name: "&5Персик Саженец"
+
+PEACH_JUICE:
+  name: "&5Персик Сок"
+
+PEACH_PIE:
+  name: "&5Персик Пирог"
+
+PEAR:
+  name: "&aГруша"
+
+PEAR_SAPLING:
+  name: "&aГруша Саженец"
+
+PEAR_JUICE:
+  name: "&aГруша Сок"
+
+PEAR_PIE:
+  name: "&aГруша Пирог"
+
+DRAGON_FRUIT:
+  name: "&dПитайя"
+
+DRAGON_FRUIT_SAPLING:
+  name: "&dПитайя Саженец"
+
+DRAGON_FRUIT_JUICE:
+  name: "&dПитайя Сок"
+
+DRAGON_FRUIT_PIE:
+  name: "&dПитайя Пирог"
+
+DIRT_ESSENCE:
+  name: "&rМагическая эссенция"
+
+DIRT_PLANT:
+  name: "&rЗемля Растение"
+
+COAL_ESSENCE:
+  name: "&rМагическая эссенция"
+
+COAL_PLANT:
+  name: "&rУголь Растение"
+
+IRON_ESSENCE:
+  name: "&rМагическая эссенция"
+
+IRON_PLANT:
+  name: "&rЖелезо Растение"
+
+GOLD_ESSENCE:
+  name: "&rМагическая эссенция"
+
+GOLD_PLANT:
+  name: "&rЗолото Растение"
+
+COPPER_ESSENCE:
+  name: "&rМагическая эссенция"
+
+COPPER_PLANT:
+  name: "&rМедь Растение"
+
+ALUMINUM_ESSENCE:
+  name: "&rМагическая эссенция"
+
+ALUMINUM_PLANT:
+  name: "&rАлюминий Растение"
+
+TIN_ESSENCE:
+  name: "&rМагическая эссенция"
+
+TIN_PLANT:
+  name: "&rОлово Растение"
+
+SILVER_ESSENCE:
+  name: "&rМагическая эссенция"
+
+SILVER_PLANT:
+  name: "&rСеребро Растение"
+
+LEAD_ESSENCE:
+  name: "&rМагическая эссенция"
+
+LEAD_PLANT:
+  name: "&rСвинец Растение"
+
+REDSTONE_ESSENCE:
+  name: "&rМагическая эссенция"
+
+REDSTONE_PLANT:
+  name: "&rРедстоун Растение"
+
+LAPIS_ESSENCE:
+  name: "&rМагическая эссенция"
+
+LAPIS_PLANT:
+  name: "&rЛазурит Растение"
+
+ENDER_ESSENCE:
+  name: "&rМагическая эссенция"
+
+ENDER_PLANT:
+  name: "&rЭндер Растение"
+
+QUARTZ_ESSENCE:
+  name: "&rМагическая эссенция"
+
+QUARTZ_PLANT:
+  name: "&rКварц Растение"
+
+DIAMOND_ESSENCE:
+  name: "&rМагическая эссенция"
+
+DIAMOND_PLANT:
+  name: "&rАлмаз Растение"
+
+EMERALD_ESSENCE:
+  name: "&rМагическая эссенция"
+
+EMERALD_PLANT:
+  name: "&rИзумруд Растение"
+
+NETHERITE_ESSENCE:
+  name: "&rМагическая эссенция"
+
+NETHERITE_PLANT:
+  name: "&rНезерит Растение"
+
+GLOWSTONE_ESSENCE:
+  name: "&rМагическая эссенция"
+
+GLOWSTONE_PLANT:
+  name: "&rСветопыль Растение"
+
+OBSIDIAN_ESSENCE:
+  name: "&rМагическая эссенция"
+
+OBSIDIAN_PLANT:
+  name: "&rОбсидиан Растение"
+
+SLIME_ESSENCE:
+  name: "&rМагическая эссенция"
+
+SLIME_PLANT:
+  name: "&rСлизь Растение"
+
+LIME_SMOOTHIE:
+  name: "&aЛайм Смузи"
+
+TOMATO_JUICE:
+  name: "&4Помидор Сок"
+
+WINE:
+  name: "&cВино"
+
+LEMON_ICED_TEA:
+  name: "&eЛимон Холодный чай"
+
+RASPBERRY_ICED_TEA:
+  name: "&dМалина Холодный чай"
+
+PEACH_ICED_TEA:
+  name: "&dПерсик Холодный чай"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4Клубника Холодный чай"
+
+CHERRY_ICED_TEA:
+  name: "&cВишня Холодный чай"
+
+THAI_TEA:
+  name: "&6Тайский чай"
+
+LEMONADE:
+  name: "&eЛимонад"
+
+PINEAPPLE_JUICE:
+  name: "&6Ананас Сок"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6Ананас Смузи"
+
+SWEETENED_TEA:
+  name: "&aСладкий чай"
+
+HOT_CHOCOLATE:
+  name: "&6Горячий шоколад"
+
+PINACOLADA:
+  name: "&6Пина колада"
+
+PUMPKIN_BREAD:
+  name: "&rТыквенный хлеб"
+
+CHOCOLATE_BAR:
+  name: "&rШоколадный батончик"
+
+POTATO_SALAD:
+  name: "&rКартофельный салат"
+
+CHICKEN_SANDWICH:
+  name: "&rСэндвич с курицей"
+
+FISH_SANDWICH:
+  name: "&rСэндвич с рыбой"
+
+BAGEL:
+  name: "&rБейгл"
+
+EGG_SALAD:
+  name: "&rЯичный салат"
+
+TOMATO_SOUP:
+  name: "&4Томатный суп"
+
+STRAWBERRY_SALAD:
+  name: "&cКлубничный салат"
+
+GRAPE_SALAD:
+  name: "&cВиноградный салат"
+
+CHICKEN_CURRY:
+  name: "&rКуриное карри"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&rКуриное карри с кокосом"
+
+BISCUIT:
+  name: "&6Печенье"
+
+BISCUITS_GRAVY:
+  name: "&rПеченье с деревенской подливой"
+
+CHEESECAKE:
+  name: "&rЧизкейк"
+
+CHERRY_CHEESECAKE:
+  name: "&cВишня Чизкейк"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9Голубика Чизкейк"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6Тыквенный чизкейк"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6Сладкий грушевый чизкейк"
+
+BLACKBERRY_COBBLER:
+  name: "&8Ежевичный коблер"
+
+PAVLOVA:
+  name: "&rПавлова"
+
+CORN_ON_THE_COB:
+  name: "&6Кукурузный початок"
+
+CREAMED_CORN:
+  name: "&rКукуруза в сливках"
+
+BACON:
+  name: "&rБекон"
+
+SANDWICH:
+  name: "&rСэндвич"
+
+BLT:
+  name: "&rСэндвич БЛТ"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&rСэндвич с курицей и салатом"
+
+LEAFY_FISH_SANDWICH:
+  name: "&rСэндвич с рыбой и салатом"
+
+HAMBURGER:
+  name: "&rГамбургер"
+
+CHEESEBURGER:
+  name: "&rЧизбургер"
+
+BACON_CHEESEBURGER:
+  name: "&rЧизбургер с беконом"
+
+DELUXE_CHEESEBURGER:
+  name: "&rЧизбургер делюкс"
+
+GARLIC_BREAD:
+  name: "&rЧесночный хлеб"
+
+GARLIC_CHEESE_BREAD:
+  name: "&rЧесночный хлеб с сыром"
+
+CARROT_CAKE:
+  name: "&rМорковный торт"
+
+CHICKEN_BURGER:
+  name: "&rКуриный бургер"
+
+CHICKEN_CHEESEBURGER:
+  name: "&rКуриный чизбургер"
+
+BACON_BURGER:
+  name: "&rБургер с беконом"
+
+BACON_SANDWICH:
+  name: "&rСэндвич с беконом"
+
+TACO:
+  name: "&rТако"
+
+FISH_TACO:
+  name: "&rРыбный тако"
+
+STREET_TACO:
+  name: "&rУличный тако"
+
+JAMMY_DODGER:
+  name: "&cДжемми Доджер"
+
+PANCAKES:
+  name: "&rБлины"
+
+BLUEBERRY_PANCAKES:
+  name: "&rБлины с голубикой"
+
+SWEET_BERRY_PANCAKES:
+  name: "&rБлины со сладкими ягодами"
+
+FRIES:
+  name: "&rКартофель фри"
+
+POPCORN:
+  name: "&rПопкорн"
+
+SWEET_POPCORN:
+  name: "&rПопкорн &7(Сладкий)"
+
+SALTY_POPCORN:
+  name: "&rПопкорн &7(Солёный)"
+
+SHEPARDS_PIE:
+  name: "&rПастуший пирог"
+
+CHICKEN_POT_PIE:
+  name: "&rКуриный пирог"
+
+CHOCOLATE_CAKE:
+  name: "&rШоколадный торт"
+
+CREAM_COOKIE:
+  name: "&rКремовое печенье"
+
+BLUEBERRY_MUFFIN:
+  name: "&rМаффин с голубикой"
+
+PUMPKIN_MUFFIN:
+  name: "&rТыквенный маффин"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&rМаффин с шоколадной крошкой"
+
+BOSTON_CREAM_PIE:
+  name: "&rБостонский кремовый пирог"
+
+HOT_DOG:
+  name: "&rХот-дог"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&rХот-дог в беконе с сырной начинкой"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&rХот-дог барбекю в беконе"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&rХот-дог барбекю с двойным беконом в тортилье с сыром"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&cКлубника в шоколаде"
+
+SWEET_POTATO_PIE:
+  name: "&rПирог из батата"
+
+LAMINGTON:
+  name: "&rЛамингтон"
+
+WAFFLES:
+  name: "&rВафли"
+
+CLUB_SANDWICH:
+  name: "&rКлубный сэндвич"
+
+BURRITO:
+  name: "&rБуррито"
+
+CHICKEN_BURRITO:
+  name: "&rКуриный буррито"
+
+GRILLED_SANDWICH:
+  name: "&rСэндвич на гриле"
+
+LASAGNA:
+  name: "&rЛазанья"
+
+ICE_CREAM:
+  name: "&rМороженое"
+
+TIRAMISU:
+  name: "&rТирамису"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&rТирамису с клубникой"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&rТирамису с малиной"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&rТирамису с ежевикой"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&rШоколадно-грушевый торт"
+
+APPLE_PEAR_CAKE:
+  name: "&cЯблочно-грушевый торт"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&cФаршированный красный перец"

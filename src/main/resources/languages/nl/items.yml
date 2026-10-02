@@ -1,0 +1,793 @@
+# Dutch item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bIJsblokje"
+
+CROOK:
+  name: "&rHerdersstaf"
+
+GRASS_SEEDS:
+  name: "&rGraszaden"
+
+KITCHEN:
+  name: "&eKeuken"
+
+MAYO:
+  name: "&rMayonaise"
+
+MUSTARD:
+  name: "&eMosterd"
+
+BBQ_SAUCE:
+  name: "&cBarbecuesaus"
+
+VEGETABLE_OIL:
+  name: "&rPlantaardige olie"
+
+CORNMEAL:
+  name: "&rMaïsmeel"
+
+YEAST:
+  name: "&rGist"
+
+MOLASSES:
+  name: "&8Melasse"
+
+BROWN_SUGAR:
+  name: "&rBruine suiker"
+
+COUNTRY_GRAVY:
+  name: "&rPlattelandsjus"
+
+GRAPE:
+  name: "&cDruif"
+
+GRAPE_BUSH:
+  name: "&cDruif Struik"
+
+GRAPE_JUICE:
+  name: "&cDruif Sap"
+
+GRAPE_SMOOTHIE:
+  name: "&cDruif Smoothie"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&cDruif Jamboterham"
+
+GRAPE_PIE:
+  name: "&cDruif Taart"
+
+BLUEBERRY:
+  name: "&9Bosbes"
+
+BLUEBERRY_BUSH:
+  name: "&9Bosbes Struik"
+
+BLUEBERRY_JUICE:
+  name: "&9Bosbes Sap"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9Bosbes Smoothie"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9Bosbes Jamboterham"
+
+BLUEBERRY_PIE:
+  name: "&9Bosbes Taart"
+
+ELDERBERRY:
+  name: "&cVlierbes"
+
+ELDERBERRY_BUSH:
+  name: "&cVlierbes Struik"
+
+ELDERBERRY_JUICE:
+  name: "&cVlierbes Sap"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&cVlierbes Smoothie"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&cVlierbes Jamboterham"
+
+ELDERBERRY_PIE:
+  name: "&cVlierbes Taart"
+
+RASPBERRY:
+  name: "&dFramboos"
+
+RASPBERRY_BUSH:
+  name: "&dFramboos Struik"
+
+RASPBERRY_JUICE:
+  name: "&dFramboos Sap"
+
+RASPBERRY_SMOOTHIE:
+  name: "&dFramboos Smoothie"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&dFramboos Jamboterham"
+
+RASPBERRY_PIE:
+  name: "&dFramboos Taart"
+
+BLACKBERRY:
+  name: "&8Braam"
+
+BLACKBERRY_BUSH:
+  name: "&8Braam Struik"
+
+BLACKBERRY_JUICE:
+  name: "&8Braam Sap"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8Braam Smoothie"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8Braam Jamboterham"
+
+BLACKBERRY_PIE:
+  name: "&8Braam Taart"
+
+CRANBERRY:
+  name: "&cVeenbes"
+
+CRANBERRY_BUSH:
+  name: "&cVeenbes Struik"
+
+CRANBERRY_JUICE:
+  name: "&cVeenbes Sap"
+
+CRANBERRY_SMOOTHIE:
+  name: "&cVeenbes Smoothie"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&cVeenbes Jamboterham"
+
+CRANBERRY_PIE:
+  name: "&cVeenbes Taart"
+
+COWBERRY:
+  name: "&cVossenbes"
+
+COWBERRY_BUSH:
+  name: "&cVossenbes Struik"
+
+COWBERRY_JUICE:
+  name: "&cVossenbes Sap"
+
+COWBERRY_SMOOTHIE:
+  name: "&cVossenbes Smoothie"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&cVossenbes Jamboterham"
+
+COWBERRY_PIE:
+  name: "&cVossenbes Taart"
+
+STRAWBERRY:
+  name: "&4Aardbei"
+
+STRAWBERRY_BUSH:
+  name: "&4Aardbei Struik"
+
+STRAWBERRY_JUICE:
+  name: "&4Aardbei Sap"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4Aardbei Smoothie"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4Aardbei Jamboterham"
+
+STRAWBERRY_PIE:
+  name: "&4Aardbei Taart"
+
+TOMATO:
+  name: "&4Tomaat"
+
+TOMATO_BUSH:
+  name: "&4Tomaat Plant"
+
+LETTUCE:
+  name: "&2Sla"
+
+LETTUCE_BUSH:
+  name: "&2Sla Plant"
+
+TEA_LEAF:
+  name: "&aTheeblad"
+
+TEA_LEAF_BUSH:
+  name: "&aTheeblad Plant"
+
+CABBAGE:
+  name: "&2Kool"
+
+CABBAGE_BUSH:
+  name: "&2Kool Plant"
+
+SWEET_POTATO:
+  name: "&6Zoete aardappel"
+
+SWEET_POTATO_BUSH:
+  name: "&6Zoete aardappel Plant"
+
+MUSTARD_SEED:
+  name: "&eMosterdzaad"
+
+MUSTARD_SEED_BUSH:
+  name: "&eMosterdzaad Plant"
+
+CURRY_LEAF:
+  name: "&2Kerrieblad"
+
+CURRY_LEAF_BUSH:
+  name: "&2Kerrieblad Plant"
+
+ONION:
+  name: "&cUi"
+
+ONION_BUSH:
+  name: "&cUi Plant"
+
+GARLIC:
+  name: "&rKnoflook"
+
+GARLIC_BUSH:
+  name: "&rKnoflook Plant"
+
+CILANTRO:
+  name: "&aKoriander"
+
+CILANTRO_BUSH:
+  name: "&aKoriander Plant"
+
+BLACK_PEPPER:
+  name: "&8Zwarte peper"
+
+BLACK_PEPPER_BUSH:
+  name: "&8Zwarte peper Plant"
+
+CORN:
+  name: "&6Maïs"
+
+CORN_BUSH:
+  name: "&6Maïs Plant"
+
+PINEAPPLE:
+  name: "&6Ananas"
+
+PINEAPPLE_BUSH:
+  name: "&6Ananas Plant"
+
+RED_BELL_PEPPER:
+  name: "&cRode paprika"
+
+RED_BELL_PEPPER_BUSH:
+  name: "&cRode paprika Plant"
+
+OAK_APPLE:
+  name: "&cEikenappel"
+
+OAK_APPLE_SAPLING:
+  name: "&cEikenappel Boompje"
+
+OAK_APPLE_JUICE:
+  name: "&cEikenappel Sap"
+
+OAK_APPLE_PIE:
+  name: "&cEikenappel Taart"
+
+COCONUT:
+  name: "&6Kokosnoot"
+
+COCONUT_SAPLING:
+  name: "&6Kokosnoot Boompje"
+
+COCONUT_MILK:
+  name: "&6Kokosnoot Melk"
+
+CHERRY:
+  name: "&cKers"
+
+CHERRY_SAPLING:
+  name: "&cKers Boompje"
+
+CHERRY_JUICE:
+  name: "&cKers Sap"
+
+CHERRY_PIE:
+  name: "&cKers Taart"
+
+POMEGRANATE:
+  name: "&4Granaatappel"
+
+POMEGRANATE_SAPLING:
+  name: "&4Granaatappel Boompje"
+
+POMEGRANATE_JUICE:
+  name: "&4Granaatappel Sap"
+
+POMEGRANATE_PIE:
+  name: "&4Granaatappel Taart"
+
+LEMON:
+  name: "&eCitroen"
+
+LEMON_SAPLING:
+  name: "&eCitroen Boompje"
+
+LEMON_JUICE:
+  name: "&eCitroen Sap"
+
+LEMON_PIE:
+  name: "&eCitroen Taart"
+
+PLUM:
+  name: "&5Pruim"
+
+PLUM_SAPLING:
+  name: "&5Pruim Boompje"
+
+PLUM_JUICE:
+  name: "&5Pruim Sap"
+
+PLUM_PIE:
+  name: "&5Pruim Taart"
+
+LIME:
+  name: "&aLimoen"
+
+LIME_SAPLING:
+  name: "&aLimoen Boompje"
+
+LIME_JUICE:
+  name: "&aLimoen Sap"
+
+LIME_PIE:
+  name: "&aLimoen Taart"
+
+ORANGE:
+  name: "&6Sinaasappel"
+
+ORANGE_SAPLING:
+  name: "&6Sinaasappel Boompje"
+
+ORANGE_JUICE:
+  name: "&6Sinaasappel Sap"
+
+ORANGE_PIE:
+  name: "&6Sinaasappel Taart"
+
+PEACH:
+  name: "&5Perzik"
+
+PEACH_SAPLING:
+  name: "&5Perzik Boompje"
+
+PEACH_JUICE:
+  name: "&5Perzik Sap"
+
+PEACH_PIE:
+  name: "&5Perzik Taart"
+
+PEAR:
+  name: "&aPeer"
+
+PEAR_SAPLING:
+  name: "&aPeer Boompje"
+
+PEAR_JUICE:
+  name: "&aPeer Sap"
+
+PEAR_PIE:
+  name: "&aPeer Taart"
+
+DRAGON_FRUIT:
+  name: "&dDrakenfruit"
+
+DRAGON_FRUIT_SAPLING:
+  name: "&dDrakenfruit Boompje"
+
+DRAGON_FRUIT_JUICE:
+  name: "&dDrakenfruit Sap"
+
+DRAGON_FRUIT_PIE:
+  name: "&dDrakenfruit Taart"
+
+DIRT_ESSENCE:
+  name: "&rMagische essentie"
+
+DIRT_PLANT:
+  name: "&rAarde Plant"
+
+COAL_ESSENCE:
+  name: "&rMagische essentie"
+
+COAL_PLANT:
+  name: "&rSteenkool Plant"
+
+IRON_ESSENCE:
+  name: "&rMagische essentie"
+
+IRON_PLANT:
+  name: "&rIJzer Plant"
+
+GOLD_ESSENCE:
+  name: "&rMagische essentie"
+
+GOLD_PLANT:
+  name: "&rGoud Plant"
+
+COPPER_ESSENCE:
+  name: "&rMagische essentie"
+
+COPPER_PLANT:
+  name: "&rKoper Plant"
+
+ALUMINUM_ESSENCE:
+  name: "&rMagische essentie"
+
+ALUMINUM_PLANT:
+  name: "&rAluminium Plant"
+
+TIN_ESSENCE:
+  name: "&rMagische essentie"
+
+TIN_PLANT:
+  name: "&rTin Plant"
+
+SILVER_ESSENCE:
+  name: "&rMagische essentie"
+
+SILVER_PLANT:
+  name: "&rZilver Plant"
+
+LEAD_ESSENCE:
+  name: "&rMagische essentie"
+
+LEAD_PLANT:
+  name: "&rLood Plant"
+
+REDSTONE_ESSENCE:
+  name: "&rMagische essentie"
+
+REDSTONE_PLANT:
+  name: "&rRedstone Plant"
+
+LAPIS_ESSENCE:
+  name: "&rMagische essentie"
+
+LAPIS_PLANT:
+  name: "&rLapis lazuli Plant"
+
+ENDER_ESSENCE:
+  name: "&rMagische essentie"
+
+ENDER_PLANT:
+  name: "&rEnder Plant"
+
+QUARTZ_ESSENCE:
+  name: "&rMagische essentie"
+
+QUARTZ_PLANT:
+  name: "&rKwarts Plant"
+
+DIAMOND_ESSENCE:
+  name: "&rMagische essentie"
+
+DIAMOND_PLANT:
+  name: "&rDiamant Plant"
+
+EMERALD_ESSENCE:
+  name: "&rMagische essentie"
+
+EMERALD_PLANT:
+  name: "&rSmaragd Plant"
+
+NETHERITE_ESSENCE:
+  name: "&rMagische essentie"
+
+NETHERITE_PLANT:
+  name: "&rNetherite Plant"
+
+GLOWSTONE_ESSENCE:
+  name: "&rMagische essentie"
+
+GLOWSTONE_PLANT:
+  name: "&rGloeisteen Plant"
+
+OBSIDIAN_ESSENCE:
+  name: "&rMagische essentie"
+
+OBSIDIAN_PLANT:
+  name: "&rObsidiaan Plant"
+
+SLIME_ESSENCE:
+  name: "&rMagische essentie"
+
+SLIME_PLANT:
+  name: "&rSlijm Plant"
+
+LIME_SMOOTHIE:
+  name: "&aLimoen Smoothie"
+
+TOMATO_JUICE:
+  name: "&4Tomaat Sap"
+
+WINE:
+  name: "&cWijn"
+
+LEMON_ICED_TEA:
+  name: "&eCitroen IJsthee"
+
+RASPBERRY_ICED_TEA:
+  name: "&dFramboos IJsthee"
+
+PEACH_ICED_TEA:
+  name: "&dPerzik IJsthee"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4Aardbei IJsthee"
+
+CHERRY_ICED_TEA:
+  name: "&cKers IJsthee"
+
+THAI_TEA:
+  name: "&6Thaise thee"
+
+LEMONADE:
+  name: "&eLimonade"
+
+PINEAPPLE_JUICE:
+  name: "&6Ananas Sap"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6Ananas Smoothie"
+
+SWEETENED_TEA:
+  name: "&aGezoete thee"
+
+HOT_CHOCOLATE:
+  name: "&6Warme chocolademelk"
+
+PINACOLADA:
+  name: "&6Piña colada"
+
+PUMPKIN_BREAD:
+  name: "&rPompoenbrood"
+
+CHOCOLATE_BAR:
+  name: "&rChocoladereep"
+
+POTATO_SALAD:
+  name: "&rAardappelsalade"
+
+CHICKEN_SANDWICH:
+  name: "&rKipsandwich"
+
+FISH_SANDWICH:
+  name: "&rVissandwich"
+
+BAGEL:
+  name: "&rBagel"
+
+EGG_SALAD:
+  name: "&rEiersalade"
+
+TOMATO_SOUP:
+  name: "&4Tomatensoep"
+
+STRAWBERRY_SALAD:
+  name: "&cAardbeiensalade"
+
+GRAPE_SALAD:
+  name: "&cDruivensalade"
+
+CHICKEN_CURRY:
+  name: "&rKipkerrie"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&rKokoskipkerrie"
+
+BISCUIT:
+  name: "&6Koekje"
+
+BISCUITS_GRAVY:
+  name: "&rKoekjes met plattelandsjus"
+
+CHEESECAKE:
+  name: "&rCheesecake"
+
+CHERRY_CHEESECAKE:
+  name: "&cKers Cheesecake"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9Bosbes Cheesecake"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6Pompoencheesecake"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6Gezoete perencheesecake"
+
+BLACKBERRY_COBBLER:
+  name: "&8Braamcobbler"
+
+PAVLOVA:
+  name: "&rPavlova"
+
+CORN_ON_THE_COB:
+  name: "&6Maïskolf"
+
+CREAMED_CORN:
+  name: "&rRoommaïs"
+
+BACON:
+  name: "&rSpek"
+
+SANDWICH:
+  name: "&rSandwich"
+
+BLT:
+  name: "&rBLT-sandwich"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&rKipsandwich met sla"
+
+LEAFY_FISH_SANDWICH:
+  name: "&rVissandwich met sla"
+
+HAMBURGER:
+  name: "&rHamburger"
+
+CHEESEBURGER:
+  name: "&rCheeseburger"
+
+BACON_CHEESEBURGER:
+  name: "&rSpek-cheeseburger"
+
+DELUXE_CHEESEBURGER:
+  name: "&rDeluxe cheeseburger"
+
+GARLIC_BREAD:
+  name: "&rKnoflookbrood"
+
+GARLIC_CHEESE_BREAD:
+  name: "&rKnoflook-kaasbrood"
+
+CARROT_CAKE:
+  name: "&rWorteltaart"
+
+CHICKEN_BURGER:
+  name: "&rKipburger"
+
+CHICKEN_CHEESEBURGER:
+  name: "&rKip-cheeseburger"
+
+BACON_BURGER:
+  name: "&rSpekburger"
+
+BACON_SANDWICH:
+  name: "&rSpeksandwich"
+
+TACO:
+  name: "&rTaco"
+
+FISH_TACO:
+  name: "&rVistaco"
+
+STREET_TACO:
+  name: "&rStraattaco"
+
+JAMMY_DODGER:
+  name: "&cJammy Dodger"
+
+PANCAKES:
+  name: "&rPannenkoeken"
+
+BLUEBERRY_PANCAKES:
+  name: "&rBosbessenpannenkoeken"
+
+SWEET_BERRY_PANCAKES:
+  name: "&rZoetebespannenkoeken"
+
+FRIES:
+  name: "&rFriet"
+
+POPCORN:
+  name: "&rPopcorn"
+
+SWEET_POPCORN:
+  name: "&rPopcorn &7(Zoet)"
+
+SALTY_POPCORN:
+  name: "&rPopcorn &7(Zout)"
+
+SHEPARDS_PIE:
+  name: "&rHerderspastei"
+
+CHICKEN_POT_PIE:
+  name: "&rKippenpastei"
+
+CHOCOLATE_CAKE:
+  name: "&rChocoladetaart"
+
+CREAM_COOKIE:
+  name: "&rRoomkoekje"
+
+BLUEBERRY_MUFFIN:
+  name: "&rBosbessenmuffin"
+
+PUMPKIN_MUFFIN:
+  name: "&rPompoenmuffin"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&rChocoladeschilfermuffin"
+
+BOSTON_CREAM_PIE:
+  name: "&rBoston cream pie"
+
+HOT_DOG:
+  name: "&rHotdog"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&rIn spek gewikkelde, met kaas gevulde hotdog"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&rIn spek gewikkelde BBQ-hotdog"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&rBBQ-hotdog met dubbel spek in een tortilla met kaas"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&cChocoladeaardbei"
+
+SWEET_POTATO_PIE:
+  name: "&rZoeteaardappeltaart"
+
+LAMINGTON:
+  name: "&rLamington"
+
+WAFFLES:
+  name: "&rWafels"
+
+CLUB_SANDWICH:
+  name: "&rClubsandwich"
+
+BURRITO:
+  name: "&rBurrito"
+
+CHICKEN_BURRITO:
+  name: "&rKipburrito"
+
+GRILLED_SANDWICH:
+  name: "&rGegrilde sandwich"
+
+LASAGNA:
+  name: "&rLasagne"
+
+ICE_CREAM:
+  name: "&rIJs"
+
+TIRAMISU:
+  name: "&rTiramisu"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&rTiramisu met aardbeien"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&rTiramisu met frambozen"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&rTiramisu met bramen"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&rChocolade-perentaart"
+
+APPLE_PEAR_CAKE:
+  name: "&cAppel-perentaart"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&cGevulde rode paprika"
