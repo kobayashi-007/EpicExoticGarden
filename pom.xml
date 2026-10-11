@@ -1,0 +1,106 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>io.github.thebusybiscuit</groupId>
+    <artifactId>ExoticGarden</artifactId>
+    <version>5.3.3</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- Single Java 8 jar runs on every server from 1.13 up to 26.3 (Slimefun 5 is a Java 8 universal jar). -->
+        <maven.compiler.release>8</maven.compiler.release>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>papermc</id>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <build>
+        <finalName>${project.name} v${project.version}</finalName>
+        <defaultGoal>clean package</defaultGoal>
+        <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
+
+        <resources>
+            <!-- Only plugin.yml needs Maven property substitution (${project.version}). -->
+            <resource>
+                <directory>${basedir}/src/main/resources</directory>
+                <filtering>true</filtering>
+                <includes>
+                    <include>plugin.yml</include>
+                </includes>
+            </resource>
+
+            <!-- Text assets (config, balance, translations), copied verbatim. -->
+            <resource>
+                <directory>${basedir}/src/main/resources</directory>
+                <filtering>false</filtering>
+                <excludes>
+                    <exclude>plugin.yml</exclude>
+                    <exclude>schematics/**</exclude>
+                </excludes>
+            </resource>
+
+            <!-- Binary schematic files must never be filtered. -->
+            <resource>
+                <directory>${basedir}/src/main/resources</directory>
+                <filtering>false</filtering>
+                <includes>
+                    <include>schematics/*</include>
+                </includes>
+            </resource>
+
+            <resource>
+                <directory>${basedir}</directory>
+                <includes>
+                    <include>LICENSE</include>
+                </includes>
+            </resource>
+        </resources>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.14.0</version>
+            </plugin>
+        </plugins>
+    </build>
+
+    <dependencies>
+        <!-- Compile against the newest Paper API; runtime compatibility back to 1.13 is handled via
+             MaterialCompat/XMaterial and the reflective guards in the listeners. -->
+        <dependency>
+            <groupId>io.papermc.paper</groupId>
+            <artifactId>paper-api</artifactId>
+            <version>26.3.build.38-alpha</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Slimefun 5 (community continuation). The released fat jar ships relocated XSeries/PaperLib/dough,
+             so it is installed into the local repository:
+             mvn install:install-file -Dfile=Slimefun-5.3.3.jar -DgroupId=com.github.Slimefun5
+                 -DartifactId=Slimefun5 -Dversion=5.3.3 -Dpackaging=jar -->
+        <dependency>
+            <groupId>com.github.Slimefun5</groupId>
+            <artifactId>Slimefun5</artifactId>
+            <version>5.3.3</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>jsr305</artifactId>
+            <version>3.0.2</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>

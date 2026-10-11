@@ -1,0 +1,23 @@
+# EpicExoticGarden configuration
+# This plugin is fully standalone and does not require Slimefun.
+
+# Language used for item names: en, de, es, fr, it, nl, pl, pt-BR, ru, zh-CN
+language: en
+
+# Items that may drop when breaking tall grass (6% chance).
+# All custom bushes and saplings are added automatically; set an entry to false to disable its drop.
+grass-drops: {}
+
+# Worlds in which exotic bushes and trees never generate naturally.
+world-blacklist:
+- world_nether
+- world_the_end
+
+# Percentage chance per freshly populated chunk (0-100).
+chances:
+  TREE: 22
+  BUSH: 16
+
+# Notify operators who join the server when a new EpicExoticGarden version is available.
+# The console notice always shows and cannot be disabled here.
+update-notify-join: true

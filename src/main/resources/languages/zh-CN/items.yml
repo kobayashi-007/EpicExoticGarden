@@ -1,0 +1,971 @@
+# Auto-generated lore template for edible items. {0} = hunger points restored.
+_food_lore: "&6回复 &b{0}点 &6饱食度"
+# 所有魔法精华共用的 lore 模板（自动应用，无需逐物品填写）
+_essence_lore:
+  - "&7成熟的魔法作物会掉落此精华，"
+  - "&7集齐 8 个即可合成对应资源。"
+
+# Guide GUI titles and category names.
+_gui_guide_title: "异域花园图鉴"
+_gui_category_plants: "植物与果实"
+_gui_category_ingredients: "原料与工具"
+_gui_category_dishes: "菜肴"
+_gui_category_drinks: "饮品"
+_gui_category_magical: "魔法作物"
+
+# Guide GUI buttons and hints. {0}/{1} are filled in at runtime.
+_gui_info_name: "&e点击物品查看合成配方"
+_gui_info_lore: "&7没有配方的物品会显示获取方式。"
+_gui_prev: "&e上一页"
+_gui_next: "&e下一页"
+_gui_back_main: "&7返回主菜单"
+_gui_back_detail: "&7返回 {0}（{1}）"
+_gui_item_count: "&7共 {0} 个物品"
+
+# Recipe detail page.
+_gui_detail_title: "合成配方"
+_gui_workbench: "&e工作台合成"
+_gui_shaped: "&e有序合成（形状固定）"
+_gui_shapeless: "&e无序合成（材料任意摆放）"
+_gui_recipe_lore_1: "&7在原版工作台中按"
+_gui_recipe_lore_2: "&7图示材料合成即可。"
+_gui_not_craftable: "&c该物品无法合成"
+_gui_obtain: "&e获取方式"
+_gui_obtain_lore_1: "&7野外打草丛、种植收获、"
+_gui_obtain_lore_2: "&7打果树树叶或由其他物品制成。"
+_gui_obtain_lore_3: "&7管理员可用 /epicgarden give 发放。"
+# 图鉴手册物品（/epicgarden guidebook 获得，右键打开图鉴）
+_gui_book_name: "&e异域植物图鉴 &7(右键使用)"
+_gui_book_lore_1: ""
+_gui_book_lore_2: "&f收录异域花草、果树与料理配方"
+_gui_book_lore_3: "&f翻阅解锁园艺相关研究"
+# /epicgarden help 命令帮助
+_gui_help_title: "&6===== &eEpicExoticGarden 命令 &6====="
+_gui_help_guide: "&e/eeg guide &7- 打开异域植物图鉴"
+_gui_help_guidebook: "&e/eeg guidebook &7- 获取图鉴手册（右键使用）"
+_gui_help_give: "&e/eeg give <物品ID> [数量] [玩家] &7- 发放物品"
+_gui_help_reload: "&e/eeg reload &7- 重载配置、语言与配方"
+_gui_help_debug: "&e/eeg debug &7- 查看调试信息"
+_gui_help_help: "&e/eeg help &7- 显示本帮助"
+# 命令反馈消息（/eeg give / reload / debug 等）
+_cmd_no_permission: "&c你没有权限。"
+_cmd_player_only: "&c该命令只能由玩家执行。"
+_cmd_guidebook_received: "&a已获得图鉴手册，手持它 &e右键 &a即可打开图鉴。"
+_cmd_give_usage: "&6用法: /epicgarden give <物品ID> [数量] [玩家]"
+_cmd_give_unknown: "&c未知物品 ID: &f{0}"
+_cmd_give_invalid_amount: "&c数量必须是数字。"
+_cmd_give_player_offline: "&c玩家不在线: &f{0}"
+_cmd_give_console: "&6控制台必须指定玩家: /epicgarden give <物品ID> [数量] <玩家>"
+_cmd_give_success: "&a已将 &f{0}x {1} &a给予 &f{2}"
+_cmd_reload_done: "&aEpicExoticGarden 配置已重载。"
+_cmd_debug_title: "&6EpicExoticGarden 调试信息"
+_cmd_debug_items: "&7物品: &f{0}"
+_cmd_debug_blocks: "&7已存储方块: &f{0}"
+_cmd_debug_recipes: "&7配方规格: &f{0}"
+_cmd_debug_language: "&7语言: &f{0}"
+# 更新提示（_cmd_update_console 控制台单行；_cmd_update_join + _cmd_update_url 为 OP 进服两行提示；{0}=下载地址）
+_cmd_update_console: "&7[&bEpicExoticGarden&7] &a有可用更新: &b{0}"
+_cmd_update_join: "&7[&bEpicExoticGarden&7] &a有可用更新:"
+_cmd_update_url: "&b{0}"
+# 控制台日志消息（logger 不渲染颜色代码，请保持纯文本）
+_log_language_loaded: "语言已加载: {0}（本地化条目 {1}，英文条目 {2}）"
+_log_models_generated: "已生成自定义模型配置: models.yml（共 {0} 个物品）"
+_log_recipes_built: "已从 recipe 配置构建 {0} 个合成配方"
+_log_recipes_registered: "已注册 {0} 个原版工作台配方"
+_log_enabled: "EpicExoticGarden 已启用，共注册 {0} 个物品。"
+_log_recipes_rebuilt: "合成配方已重建并重新注册，共 {0} 个。"
+_log_reloaded: "已重载配置。"
+# 文件读写日志（纯文本）
+_log_dir_create_failed: "无法创建目录: {0}"
+_log_recipe_dir_failed: "无法创建配方目录: {0}"
+_log_recipe_read_failed: "读取配方文件失败: {0}"
+_log_recipe_write_failed: "写入配方文件失败: {0}"
+_log_recipe_duplicate: "配方条目重复，已忽略: {0}（{1}.yml）"
+_log_recipe_reconciled: "已整理配方文件（去除重复/失效条目）: {0}"
+_log_recipe_reconcile_failed: "整理配方文件失败: {0}"
+_log_recipe_append_failed: "追加配方条目失败: {0}"
+_log_recipe_skip_result: "跳过配方：结果物品无法解析: {0}"
+_log_recipe_skip_ingredient: "跳过配方（材料无法解析: {0}）: {1}"
+_log_recipe_skip_empty: "跳过配方（材料列表为空）: {0}"
+_log_recipe_skip_pattern_char: "跳过配方（图案字符 {0} 未在 ingredients 定义）: {1}"
+_log_recipe_unregister_failed: "注销旧配方失败，合成配方将在重启后更新: {0}"
+_log_recipe_unregistered: "已注销 {0} 个旧配方"
+_log_models_read_failed: "读取自定义模型配置失败: {0}"
+_log_models_write_failed: "写入自定义模型配置失败: {0}"
+_log_models_append_failed: "追加自定义模型条目失败: {0}"
+_log_models_appended: "已向 models.yml 追加 {0} 个新物品条目"
+_log_models_loaded: "已加载 {0} 个自定义模型（CustomModelData）配置"
+_log_models_unsupported: "检测到 {0} 个 CustomModelData 配置，但当前服务端版本低于 1.14，无法应用。"
+_log_models_unknown_item: "models.yml 中的物品 ID 不存在，已忽略: {0}"
+# 生成的配置文件内容（注释等，纯文本，不支持颜色代码）
+# recipe/*.yml 的说明头（{0}=文件名，{1}=分组描述）
+_file_recipe_header: |-
+  # =====================================================================
+  # EpicExoticGarden 配方配置 - {0}（{1}）
+  #
+  # 字段说明：
+  #   hunger      食用后回复的饱食度（0-20），可在游戏内 /epicgarden reload 即时生效
+  #   enabled     是否启用该合成配方（false 禁用）
+  #   amount      合成产出数量
+  #   type        SHAPELESS=无序合成（材料任意摆放）/ SHAPED=有序合成（形状固定）
+  #   ingredients 材料：本插件物品写 ID（如 BUTTER、GRAPE_JUICE），
+  #               原版物品写材质名（如 SUGAR、COOKED_BEEF），
+  #               数量后缀 :数字（如 DIRT_ESSENCE:8）
+  #   pattern     有序合成的摆放形状（最多 3 行、每行最多 3 字符，空格为空位）
+  #
+  # 修改合成配方后需要重启服务器；新增/删除材料请确保对应物品在当前版本存在。
+  # =====================================================================
+_file_recipe_empty_hint: "可添加 enabled / amount / type / ingredients 来定义配方"
+_file_recipe_disabled: "[自动停用：结果物品无法解析]"
+_file_recipe_appended_header: "新增内容（插件更新后自动追加）"
+_file_recipe_no_recipe: "默认无合成配方（打草丛/种植/收获获得，也可按下面格式自行添加）"
+# recipe 分组描述（用于说明头 {1}）
+_file_group_plants: "植物/灌木/树苗"
+_file_group_fruits: "水果/作物"
+_file_group_ingredients: "原料/调料"
+_file_group_tools: "工具"
+_file_group_dishes: "菜肴"
+_file_group_drinks: "饮品"
+_file_group_magicalcrops: "魔法作物"
+# models.yml 说明头
+_file_models_header: |-
+  # =====================================================================
+  # EpicExoticGarden 自定义模型数据（CustomModelData）配置
+  #
+  # 为物品设置 CustomModelData 数值，配合资源包显示自定义贴图/模型：
+  #   物品ID: 10001   → 应用 CustomModelData = 10001
+  #   物品ID: 0       → 不修改（默认，保持原版外观）
+  #
+  # 说明：
+  #   - 需要 1.14 及以上版本；低版本自动忽略本文件
+  #   - 每行末尾的「材质」注释是该物品的原版基础材质，资源包里给它配置 overrides 即可
+  #   - 头颅物品（浆果/水果等）的物品形态贴图由皮肤决定，CustomModelData 一般只影响其方块形态
+  #   - 修改后执行 /eeg reload 立即生效；玩家背包中已有的旧物品不会更新，重新获取即可
+  # =====================================================================
+_file_models_material: "材质"
+_file_models_appended_header: "新增物品（插件更新后自动追加）"
+_file_models_cat_plants_and_fruits: "植物与果实"
+_file_models_cat_misc: "原料与工具"
+_file_models_cat_food: "料理"
+_file_models_cat_drinks: "饮品"
+_file_models_cat_magical: "魔法作物"
+
+# Simplified Chinese item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&b冰块"
+
+CROOK:
+  name: "&r采集钩"
+  lore:
+    - "&7手持它破坏树叶时，有 25% 概率"
+    - "&7额外掉落一颗对应树种的树苗。"
+
+STONE_CROOK:
+  name: "&r石采集钩"
+  lore:
+    - "&7右键收割以点击方块为中心的 3x3 范围"
+    - "&7内所有成熟灌木和果实。"
+    - "&7破坏树叶时有 25% 概率"
+    - "&7额外掉落对应树种的树苗。"
+
+GRASS_SEEDS:
+  name: "&r草种子"
+
+KITCHEN:
+  name: "&e厨房"
+
+MAYO:
+  name: "&r蛋黄酱"
+
+MUSTARD:
+  name: "&e芥末酱"
+
+BBQ_SAUCE:
+  name: "&c烧烤酱"
+
+VEGETABLE_OIL:
+  name: "&r植物油"
+
+CORNMEAL:
+  name: "&r玉米粉"
+
+YEAST:
+  name: "&r酵母"
+
+MOLASSES:
+  name: "&8糖蜜"
+
+BROWN_SUGAR:
+  name: "&r红糖"
+
+COUNTRY_GRAVY:
+  name: "&r乡村肉汁"
+
+GRAPE:
+  name: "&c葡萄"
+
+GRAPE_BUSH:
+  name: "&c葡萄灌木"
+
+GRAPE_JUICE:
+  name: "&c葡萄果汁"
+
+GRAPE_SMOOTHIE:
+  name: "&c葡萄冰沙"
+
+GRAPE_JELLY_SANDWICH:
+  name: "&c葡萄果酱三明治"
+
+GRAPE_PIE:
+  name: "&c葡萄派"
+
+BLUEBERRY:
+  name: "&9蓝莓"
+
+BLUEBERRY_BUSH:
+  name: "&9蓝莓灌木"
+
+BLUEBERRY_JUICE:
+  name: "&9蓝莓果汁"
+
+BLUEBERRY_SMOOTHIE:
+  name: "&9蓝莓冰沙"
+
+BLUEBERRY_JELLY_SANDWICH:
+  name: "&9蓝莓果酱三明治"
+
+BLUEBERRY_PIE:
+  name: "&9蓝莓派"
+
+ELDERBERRY:
+  name: "&c接骨木莓"
+
+ELDERBERRY_BUSH:
+  name: "&c接骨木莓灌木"
+
+ELDERBERRY_JUICE:
+  name: "&c接骨木莓果汁"
+
+ELDERBERRY_SMOOTHIE:
+  name: "&c接骨木莓冰沙"
+
+ELDERBERRY_JELLY_SANDWICH:
+  name: "&c接骨木莓果酱三明治"
+
+ELDERBERRY_PIE:
+  name: "&c接骨木莓派"
+
+RASPBERRY:
+  name: "&d覆盆子"
+
+RASPBERRY_BUSH:
+  name: "&d覆盆子灌木"
+
+RASPBERRY_JUICE:
+  name: "&d覆盆子果汁"
+
+RASPBERRY_SMOOTHIE:
+  name: "&d覆盆子冰沙"
+
+RASPBERRY_JELLY_SANDWICH:
+  name: "&d覆盆子果酱三明治"
+
+RASPBERRY_PIE:
+  name: "&d覆盆子派"
+
+BLACKBERRY:
+  name: "&8黑莓"
+
+BLACKBERRY_BUSH:
+  name: "&8黑莓灌木"
+
+BLACKBERRY_JUICE:
+  name: "&8黑莓果汁"
+
+BLACKBERRY_SMOOTHIE:
+  name: "&8黑莓冰沙"
+
+BLACKBERRY_JELLY_SANDWICH:
+  name: "&8黑莓果酱三明治"
+
+BLACKBERRY_PIE:
+  name: "&8黑莓派"
+
+CRANBERRY:
+  name: "&c蔓越莓"
+
+CRANBERRY_BUSH:
+  name: "&c蔓越莓灌木"
+
+CRANBERRY_JUICE:
+  name: "&c蔓越莓果汁"
+
+CRANBERRY_SMOOTHIE:
+  name: "&c蔓越莓冰沙"
+
+CRANBERRY_JELLY_SANDWICH:
+  name: "&c蔓越莓果酱三明治"
+
+CRANBERRY_PIE:
+  name: "&c蔓越莓派"
+
+COWBERRY:
+  name: "&c越橘"
+
+COWBERRY_BUSH:
+  name: "&c越橘灌木"
+
+COWBERRY_JUICE:
+  name: "&c越橘果汁"
+
+COWBERRY_SMOOTHIE:
+  name: "&c越橘冰沙"
+
+COWBERRY_JELLY_SANDWICH:
+  name: "&c越橘果酱三明治"
+
+COWBERRY_PIE:
+  name: "&c越橘派"
+
+STRAWBERRY:
+  name: "&4草莓"
+
+STRAWBERRY_BUSH:
+  name: "&4草莓灌木"
+
+STRAWBERRY_JUICE:
+  name: "&4草莓果汁"
+
+STRAWBERRY_SMOOTHIE:
+  name: "&4草莓冰沙"
+
+STRAWBERRY_JELLY_SANDWICH:
+  name: "&4草莓果酱三明治"
+
+STRAWBERRY_PIE:
+  name: "&4草莓派"
+
+TOMATO:
+  name: "&4番茄"
+
+TOMATO_BUSH:
+  name: "&4番茄植株"
+
+LETTUCE:
+  name: "&2生菜"
+
+LETTUCE_BUSH:
+  name: "&2生菜植株"
+
+TEA_LEAF:
+  name: "&a茶叶"
+
+TEA_LEAF_BUSH:
+  name: "&a茶叶植株"
+
+CABBAGE:
+  name: "&2卷心菜"
+
+CABBAGE_BUSH:
+  name: "&2卷心菜植株"
+
+SWEET_POTATO:
+  name: "&6红薯"
+
+SWEET_POTATO_BUSH:
+  name: "&6红薯植株"
+
+MUSTARD_SEED:
+  name: "&e芥菜籽"
+
+MUSTARD_SEED_BUSH:
+  name: "&e芥菜籽植株"
+
+CURRY_LEAF:
+  name: "&2咖喱叶"
+
+CURRY_LEAF_BUSH:
+  name: "&2咖喱叶植株"
+
+ONION:
+  name: "&c洋葱"
+
+ONION_BUSH:
+  name: "&c洋葱植株"
+
+GARLIC:
+  name: "&r大蒜"
+
+GARLIC_BUSH:
+  name: "&r大蒜植株"
+
+CILANTRO:
+  name: "&a香菜"
+
+CILANTRO_BUSH:
+  name: "&a香菜植株"
+
+BLACK_PEPPER:
+  name: "&8黑胡椒"
+
+BLACK_PEPPER_BUSH:
+  name: "&8黑胡椒植株"
+
+CORN:
+  name: "&6玉米"
+
+CORN_BUSH:
+  name: "&6玉米植株"
+
+PINEAPPLE:
+  name: "&6菠萝"
+
+PINEAPPLE_BUSH:
+  name: "&6菠萝植株"
+
+RED_BELL_PEPPER:
+  name: "&c红甜椒"
+
+RED_BELL_PEPPER_BUSH:
+  name: "&c红甜椒植株"
+
+OAK_APPLE:
+  name: "&c橡果苹果"
+
+OAK_APPLE_SAPLING:
+  name: "&c橡果苹果树苗"
+
+OAK_APPLE_JUICE:
+  name: "&c橡果苹果果汁"
+
+OAK_APPLE_PIE:
+  name: "&c橡果苹果派"
+
+COCONUT:
+  name: "&6椰子"
+
+COCONUT_SAPLING:
+  name: "&6椰子树苗"
+
+COCONUT_MILK:
+  name: "&6椰子奶"
+
+CHERRY:
+  name: "&c樱桃"
+
+CHERRY_SAPLING:
+  name: "&c樱桃树苗"
+
+CHERRY_JUICE:
+  name: "&c樱桃果汁"
+
+CHERRY_PIE:
+  name: "&c樱桃派"
+
+POMEGRANATE:
+  name: "&4石榴"
+
+POMEGRANATE_SAPLING:
+  name: "&4石榴树苗"
+
+POMEGRANATE_JUICE:
+  name: "&4石榴果汁"
+
+POMEGRANATE_PIE:
+  name: "&4石榴派"
+
+LEMON:
+  name: "&e柠檬"
+
+LEMON_SAPLING:
+  name: "&e柠檬树苗"
+
+LEMON_JUICE:
+  name: "&e柠檬果汁"
+
+LEMON_PIE:
+  name: "&e柠檬派"
+
+PLUM:
+  name: "&5李子"
+
+PLUM_SAPLING:
+  name: "&5李子树苗"
+
+PLUM_JUICE:
+  name: "&5李子果汁"
+
+PLUM_PIE:
+  name: "&5李子派"
+
+LIME:
+  name: "&a青柠"
+
+LIME_SAPLING:
+  name: "&a青柠树苗"
+
+LIME_JUICE:
+  name: "&a青柠果汁"
+
+LIME_PIE:
+  name: "&a青柠派"
+
+ORANGE:
+  name: "&6橙子"
+
+ORANGE_SAPLING:
+  name: "&6橙子树苗"
+
+ORANGE_JUICE:
+  name: "&6橙子果汁"
+
+ORANGE_PIE:
+  name: "&6橙子派"
+
+PEACH:
+  name: "&5桃子"
+
+PEACH_SAPLING:
+  name: "&5桃子树苗"
+
+PEACH_JUICE:
+  name: "&5桃子果汁"
+
+PEACH_PIE:
+  name: "&5桃子派"
+
+PEAR:
+  name: "&a梨"
+
+PEAR_SAPLING:
+  name: "&a梨树苗"
+
+PEAR_JUICE:
+  name: "&a梨果汁"
+
+PEAR_PIE:
+  name: "&a梨派"
+
+DRAGON_FRUIT:
+  name: "&d火龙果"
+
+DRAGON_FRUIT_SAPLING:
+  name: "&d火龙果树苗"
+
+DRAGON_FRUIT_JUICE:
+  name: "&d火龙果果汁"
+
+DRAGON_FRUIT_PIE:
+  name: "&d火龙果派"
+
+DIRT_ESSENCE:
+  name: "&r泥土魔法精华"
+
+DIRT_PLANT:
+  name: "&r泥土植株"
+
+COAL_ESSENCE:
+  name: "&r煤炭魔法精华"
+
+COAL_PLANT:
+  name: "&r煤炭植株"
+
+IRON_ESSENCE:
+  name: "&r铁魔法精华"
+
+IRON_PLANT:
+  name: "&r铁植株"
+
+GOLD_ESSENCE:
+  name: "&r金魔法精华"
+
+GOLD_PLANT:
+  name: "&r金植株"
+
+COPPER_ESSENCE:
+  name: "&r铜魔法精华"
+
+COPPER_PLANT:
+  name: "&r铜植株"
+
+ALUMINUM_ESSENCE:
+  name: "&r铝魔法精华"
+
+ALUMINUM_PLANT:
+  name: "&r铝植株"
+
+TIN_ESSENCE:
+  name: "&r锡魔法精华"
+
+TIN_PLANT:
+  name: "&r锡植株"
+
+SILVER_ESSENCE:
+  name: "&r银魔法精华"
+
+SILVER_PLANT:
+  name: "&r银植株"
+
+LEAD_ESSENCE:
+  name: "&r铅魔法精华"
+
+LEAD_PLANT:
+  name: "&r铅植株"
+
+REDSTONE_ESSENCE:
+  name: "&r红石魔法精华"
+
+REDSTONE_PLANT:
+  name: "&r红石植株"
+
+LAPIS_ESSENCE:
+  name: "&r青金石魔法精华"
+
+LAPIS_PLANT:
+  name: "&r青金石植株"
+
+ENDER_ESSENCE:
+  name: "&r末影魔法精华"
+
+ENDER_PLANT:
+  name: "&r末影植株"
+
+QUARTZ_ESSENCE:
+  name: "&r石英魔法精华"
+
+QUARTZ_PLANT:
+  name: "&r石英植株"
+
+DIAMOND_ESSENCE:
+  name: "&r钻石魔法精华"
+
+DIAMOND_PLANT:
+  name: "&r钻石植株"
+
+EMERALD_ESSENCE:
+  name: "&r绿宝石魔法精华"
+
+EMERALD_PLANT:
+  name: "&r绿宝石植株"
+
+NETHERITE_ESSENCE:
+  name: "&r下界合金魔法精华"
+
+NETHERITE_PLANT:
+  name: "&r下界合金植株"
+
+GLOWSTONE_ESSENCE:
+  name: "&r荧石魔法精华"
+
+GLOWSTONE_PLANT:
+  name: "&r荧石植株"
+
+OBSIDIAN_ESSENCE:
+  name: "&r黑曜石魔法精华"
+
+OBSIDIAN_PLANT:
+  name: "&r黑曜石植株"
+
+SLIME_ESSENCE:
+  name: "&r史莱姆魔法精华"
+
+SLIME_PLANT:
+  name: "&r黏液植株"
+
+LIME_SMOOTHIE:
+  name: "&a青柠冰沙"
+
+TOMATO_JUICE:
+  name: "&4番茄果汁"
+
+WINE:
+  name: "&c葡萄酒"
+
+LEMON_ICED_TEA:
+  name: "&e柠檬冰茶"
+
+RASPBERRY_ICED_TEA:
+  name: "&d覆盆子冰茶"
+
+PEACH_ICED_TEA:
+  name: "&d桃子冰茶"
+
+STRAWBERRY_ICED_TEA:
+  name: "&4草莓冰茶"
+
+CHERRY_ICED_TEA:
+  name: "&c樱桃冰茶"
+
+THAI_TEA:
+  name: "&6泰式奶茶"
+
+LEMONADE:
+  name: "&e柠檬水"
+
+PINEAPPLE_JUICE:
+  name: "&6菠萝果汁"
+
+PINEAPPLE_SMOOTHIE:
+  name: "&6菠萝冰沙"
+
+SWEETENED_TEA:
+  name: "&a甜茶"
+
+HOT_CHOCOLATE:
+  name: "&6热巧克力"
+
+PINACOLADA:
+  name: "&6椰林飘香"
+
+PUMPKIN_BREAD:
+  name: "&r南瓜面包"
+
+CHOCOLATE_BAR:
+  name: "&r巧克力棒"
+
+POTATO_SALAD:
+  name: "&r土豆沙拉"
+
+CHICKEN_SANDWICH:
+  name: "&r鸡肉三明治"
+
+FISH_SANDWICH:
+  name: "&r鱼肉三明治"
+
+BAGEL:
+  name: "&r贝果"
+
+EGG_SALAD:
+  name: "&r鸡蛋沙拉"
+
+TOMATO_SOUP:
+  name: "&4番茄汤"
+
+STRAWBERRY_SALAD:
+  name: "&c草莓沙拉"
+
+GRAPE_SALAD:
+  name: "&c葡萄沙拉"
+
+CHICKEN_CURRY:
+  name: "&r咖喱鸡"
+
+COCONUT_CHICKEN_CURRY:
+  name: "&r椰香咖喱鸡"
+
+BISCUIT:
+  name: "&6饼干"
+
+BISCUITS_GRAVY:
+  name: "&r饼干配乡村肉汁"
+
+CHEESECAKE:
+  name: "&r芝士蛋糕"
+
+CHERRY_CHEESECAKE:
+  name: "&c樱桃芝士蛋糕"
+
+BLUEBERRY_CHEESECAKE:
+  name: "&9蓝莓芝士蛋糕"
+
+PUMPKIN_CHEESECAKE:
+  name: "&6南瓜芝士蛋糕"
+
+SWEETENED_PEAR_CHEESECAKE:
+  name: "&6甜梨芝士蛋糕"
+
+BLACKBERRY_COBBLER:
+  name: "&8黑莓酥派"
+
+PAVLOVA:
+  name: "&r帕芙洛娃"
+
+CORN_ON_THE_COB:
+  name: "&6玉米棒"
+
+CREAMED_CORN:
+  name: "&r奶油玉米"
+
+BACON:
+  name: "&r培根"
+
+SANDWICH:
+  name: "&r三明治"
+
+BLT:
+  name: "&rBLT三明治"
+
+LEAFY_CHICKEN_SANDWICH:
+  name: "&r生菜鸡肉三明治"
+
+LEAFY_FISH_SANDWICH:
+  name: "&r生菜鱼肉三明治"
+
+HAMBURGER:
+  name: "&r汉堡"
+
+CHEESEBURGER:
+  name: "&r芝士汉堡"
+
+BACON_CHEESEBURGER:
+  name: "&r培根芝士汉堡"
+
+DELUXE_CHEESEBURGER:
+  name: "&r豪华芝士汉堡"
+
+GARLIC_BREAD:
+  name: "&r蒜香面包"
+
+GARLIC_CHEESE_BREAD:
+  name: "&r蒜香芝士面包"
+
+CARROT_CAKE:
+  name: "&r胡萝卜蛋糕"
+
+CHICKEN_BURGER:
+  name: "&r鸡肉汉堡"
+
+CHICKEN_CHEESEBURGER:
+  name: "&r鸡肉芝士汉堡"
+
+BACON_BURGER:
+  name: "&r培根汉堡"
+
+BACON_SANDWICH:
+  name: "&r培根三明治"
+
+TACO:
+  name: "&r塔可"
+
+FISH_TACO:
+  name: "&r鱼肉塔可"
+
+STREET_TACO:
+  name: "&r街头塔可"
+
+JAMMY_DODGER:
+  name: "&c果酱夹心饼干"
+
+PANCAKES:
+  name: "&r煎饼"
+
+BLUEBERRY_PANCAKES:
+  name: "&r蓝莓煎饼"
+
+SWEET_BERRY_PANCAKES:
+  name: "&r甜浆果煎饼"
+
+FRIES:
+  name: "&r薯条"
+
+POPCORN:
+  name: "&r爆米花"
+
+SWEET_POPCORN:
+  name: "&r爆米花 &7(甜)"
+
+SALTY_POPCORN:
+  name: "&r爆米花 &7(咸)"
+
+SHEPARDS_PIE:
+  name: "&r牧羊人派"
+
+CHICKEN_POT_PIE:
+  name: "&r鸡肉派"
+
+CHOCOLATE_CAKE:
+  name: "&r巧克力蛋糕"
+
+CREAM_COOKIE:
+  name: "&r奶油饼干"
+
+BLUEBERRY_MUFFIN:
+  name: "&r蓝莓松饼"
+
+PUMPKIN_MUFFIN:
+  name: "&r南瓜松饼"
+
+CHOCOLATE_CHIP_MUFFIN:
+  name: "&r巧克力豆松饼"
+
+BOSTON_CREAM_PIE:
+  name: "&r波士顿奶油派"
+
+HOT_DOG:
+  name: "&r热狗"
+
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  name: "&r培根芝士夹心热狗"
+
+BBQ_BACON_WRAPPED_HOT_DOG:
+  name: "&r烧烤培根卷热狗"
+
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  name: "&r芝士玉米饼双层培根烧烤热狗"
+
+CHOCOLATE_STRAWBERRY:
+  name: "&c巧克力草莓"
+
+SWEET_POTATO_PIE:
+  name: "&r红薯派"
+
+LAMINGTON:
+  name: "&r拉明顿蛋糕"
+
+WAFFLES:
+  name: "&r华夫饼"
+
+CLUB_SANDWICH:
+  name: "&r总汇三明治"
+
+BURRITO:
+  name: "&r墨西哥卷饼"
+
+CHICKEN_BURRITO:
+  name: "&r鸡肉卷饼"
+
+GRILLED_SANDWICH:
+  name: "&r烤三明治"
+
+LASAGNA:
+  name: "&r千层面"
+
+ICE_CREAM:
+  name: "&r冰淇淋"
+
+TIRAMISU:
+  name: "&r提拉米苏"
+
+TIRAMISU_WITH_STRAWBERRIES:
+  name: "&r草莓提拉米苏"
+
+TIRAMISU_WITH_RASPBERRIES:
+  name: "&r覆盆子提拉米苏"
+
+TIRAMISU_WITH_BLACKBERRIES:
+  name: "&r黑莓提拉米苏"
+
+CHOCOLATE_PEAR_CAKE:
+  name: "&r巧克力梨蛋糕"
+
+APPLE_PEAR_CAKE:
+  name: "&c苹果梨蛋糕"
+
+STUFFED_RED_BELL_PEPPER:
+  name: "&c酿红甜椒"
+
+WHEAT_FLOUR:
+  name: "&r小麦面粉"
+
+SALT:
+  name: "&r盐"
+
+HEAVY_CREAM:
+  name: "&r浓奶油"
+
+BUTTER:
+  name: "&r黄油"
+
+CHEESE:
+  name: "&r奶酪"

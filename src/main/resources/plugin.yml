@@ -1,0 +1,37 @@
+name: EpicExoticGarden
+version: ${project.version}
+author: Linchangqing and Kobayashi
+description: A standalone plants, farming and food plugin. Adds exotic bushes, fruit trees, crops and dishes using vanilla Minecraft mechanics. No Slimefun required.
+website: https://github.com/kobayashi-007/EpicExoticGarden
+
+api-version: '1.13'
+main: com.epic.exoticgarden.EpicExoticGarden
+
+commands:
+  epicgarden:
+    description: Open the EpicExoticGarden guide
+    usage: /epicgarden [guide|give|reload|debug]
+    aliases: [eeg, epicgarden]
+
+permissions:
+  epicexoticgarden.use:
+    description: Allows using EpicExoticGarden content
+    default: true
+  epicexoticgarden.guide:
+    description: Allows opening the EpicGuide
+    default: true
+  epicexoticgarden.admin:
+    description: Administrative access to EpicExoticGarden
+    default: op
+  epicexoticgarden.reload:
+    description: Allows reloading EpicExoticGarden
+    default: op
+  epicexoticgarden.give:
+    description: Allows giving EpicExoticGarden items
+    default: op
+  epicexoticgarden.pack:
+    description: Allows managing the EpicExoticGarden resource pack
+    default: op
+  epicexoticgarden.debug:
+    description: Allows viewing EpicExoticGarden debug information
+    default: op
