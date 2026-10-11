@@ -10,7 +10,8 @@
 
 ## 致谢与来源 / Attribution
 
-本项目是基于 **[ExoticGarden](https://github.com/Slimefun-Addon-Community/ExoticGarden)** 的衍生作品（衍生版）。
+本项目是基于 **[ExoticGarden](https://github.com/Slimefun-Addon-Community/ExoticGarden)** 的衍生作品（重构版）。
+有少部分代码是基于ExoticGarden的,大多数代码都是EpicExoticGarden独立编辑。已和ExoticGarden有很大的不同（见下文"与原版的差异"）。
 
 - 原作者：TheBusyBiscuit 及 Slimefun Addon Community 贡献者
 - 原项目许可证：GNU General Public License v3.0
